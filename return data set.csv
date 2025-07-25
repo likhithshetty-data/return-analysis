@@ -1,0 +1,1001 @@
+order_id,product_id,product_name,category,supplier,customer_id,region,channel,price,order_date,delivery_days,is_returned,return_reason,return_date
+ORD10000,PRD5000,Samsung Electronics Product,Electronics,Samsung,CUST5453,North India,Website,1997.79,17-10-2024,6,1,Late delivery,30-10-2024
+ORD10001,PRD5001,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST1858,East India,Mobile App,3713.57,09-01-2024,2,0,,
+ORD10002,PRD5002,Philips Electronics Product,Electronics,Philips,CUST6323,East India,Mobile App,948.89,07-07-2024,3,0,,
+ORD10003,PRD5003,Samsung Electronics Product,Electronics,Samsung,CUST7387,East India,Website,478.8,09-12-2024,10,1,Wrong item sent,23-12-2024
+ORD10004,PRD5004,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST2647,East India,Retail Store,3085.35,26-09-2024,10,0,,
+ORD10005,PRD5005,Lakme Electronics Product,Electronics,Lakme,CUST7236,North India,Retail Store,298.81,19-08-2024,4,1,Changed mind,29-08-2024
+ORD10006,PRD5006,Lakme Electronics Product,Electronics,Lakme,CUST7455,West India,Retail Store,4195.72,13-05-2024,10,0,,
+ORD10007,PRD5007,Nike Books Product,Books,Nike,CUST4857,South India,Retail Store,1072.76,01-04-2024,5,0,,
+ORD10008,PRD5008,Boat Electronics Product,Electronics,Boat,CUST8076,South India,Website,1660.36,26-08-2024,3,0,,
+ORD10009,PRD5009,Samsung Footwear Product,Footwear,Samsung,CUST3568,East India,Retail Store,2273.34,08-03-2024,2,0,,
+ORD10010,PRD5010,Samsung Footwear Product,Footwear,Samsung,CUST1527,North India,Website,3136.89,17-02-2024,8,0,,
+ORD10011,PRD5011,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST2072,West India,Website,1602.29,17-01-2024,5,0,,
+ORD10012,PRD5012,Philips Apparel Product,Apparel,Philips,CUST7882,East India,Mobile App,2389.14,21-08-2024,10,0,,
+ORD10013,PRD5013,Samsung Beauty Product,Beauty,Samsung,CUST3259,West India,Website,1158.43,19-03-2024,8,0,,
+ORD10014,PRD5014,Boat Books Product,Books,Boat,CUST5766,West India,Mobile App,3043.59,01-01-2024,4,0,,
+ORD10015,PRD5015,Philips Apparel Product,Apparel,Philips,CUST4192,West India,Mobile App,3116.22,25-06-2024,3,0,,
+ORD10016,PRD5016,Lakme Beauty Product,Beauty,Lakme,CUST8553,South India,Retail Store,512.25,18-02-2024,4,1,Other,01-03-2024
+ORD10017,PRD5017,Nike Beauty Product,Beauty,Nike,CUST8577,East India,Mobile App,4835.03,07-06-2024,10,1,Changed mind,23-06-2024
+ORD10018,PRD5018,Nike Books Product,Books,Nike,CUST9974,North India,Website,1662.15,17-03-2024,6,0,,
+ORD10019,PRD5019,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST8099,West India,Retail Store,3484.32,01-11-2024,3,0,,
+ORD10020,PRD5020,Nike Electronics Product,Electronics,Nike,CUST1000,East India,Website,785.78,04-09-2024,5,0,,
+ORD10021,PRD5021,Philips Books Product,Books,Philips,CUST8558,North India,Mobile App,365.06,24-01-2024,3,1,Defective item,31-01-2024
+ORD10022,PRD5022,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST7014,North India,Mobile App,1442.14,24-06-2024,9,0,,
+ORD10023,PRD5023,Nike Beauty Product,Beauty,Nike,CUST7756,South India,Mobile App,1696.21,06-09-2024,9,0,,
+ORD10024,PRD5024,Boat Books Product,Books,Boat,CUST3007,East India,Website,2824.21,21-01-2024,10,0,,
+ORD10025,PRD5025,Lakme Apparel Product,Apparel,Lakme,CUST9585,West India,Mobile App,4854.01,25-08-2024,5,0,,
+ORD10026,PRD5026,Samsung Electronics Product,Electronics,Samsung,CUST7099,East India,Retail Store,4709.59,25-03-2024,3,1,Other,29-03-2024
+ORD10027,PRD5027,Philips Books Product,Books,Philips,CUST1040,East India,Mobile App,3069.92,26-10-2024,8,1,Size mismatch,05-11-2024
+ORD10028,PRD5028,Philips Books Product,Books,Philips,CUST5967,North India,Mobile App,624.76,09-10-2024,7,0,,
+ORD10029,PRD5029,Nike Footwear Product,Footwear,Nike,CUST5476,North India,Mobile App,417.09,04-02-2024,2,0,,
+ORD10030,PRD5030,Philips Books Product,Books,Philips,CUST6343,East India,Mobile App,2065.65,28-10-2024,3,0,,
+ORD10031,PRD5031,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST2895,West India,Retail Store,4177.94,20-09-2024,6,0,,
+ORD10032,PRD5032,Samsung Beauty Product,Beauty,Samsung,CUST4752,West India,Website,1548.49,02-12-2024,6,0,,
+ORD10033,PRD5033,Nike Beauty Product,Beauty,Nike,CUST5174,East India,Retail Store,876.44,20-06-2024,10,1,Wrong item sent,10-07-2024
+ORD10034,PRD5034,Samsung Books Product,Books,Samsung,CUST4548,North India,Website,557.84,02-06-2024,5,1,Late delivery,14-06-2024
+ORD10035,PRD5035,Samsung Footwear Product,Footwear,Samsung,CUST4112,North India,Website,3906.77,28-03-2024,2,0,,
+ORD10036,PRD5036,Boat Footwear Product,Footwear,Boat,CUST2481,East India,Website,226.51,03-11-2024,3,1,Defective item,08-11-2024
+ORD10037,PRD5037,Lakme Books Product,Books,Lakme,CUST7723,South India,Website,3592.92,27-02-2024,7,0,,
+ORD10038,PRD5038,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9881,West India,Retail Store,3902.1,22-03-2024,4,0,,
+ORD10039,PRD5039,Nike Footwear Product,Footwear,Nike,CUST5202,West India,Mobile App,1920.64,08-05-2024,10,0,,
+ORD10040,PRD5040,Philips Apparel Product,Apparel,Philips,CUST9173,South India,Retail Store,4342.9,13-03-2024,6,0,,
+ORD10041,PRD5041,Samsung Books Product,Books,Samsung,CUST1496,North India,Website,1788.31,21-03-2024,4,0,,
+ORD10042,PRD5042,Philips Footwear Product,Footwear,Philips,CUST5527,North India,Mobile App,1692.72,26-08-2024,4,0,,
+ORD10043,PRD5043,Boat Beauty Product,Beauty,Boat,CUST4024,West India,Website,3702.11,27-09-2024,4,0,,
+ORD10044,PRD5044,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST1150,East India,Mobile App,4458.62,09-09-2024,3,0,,
+ORD10045,PRD5045,Nike Beauty Product,Beauty,Nike,CUST3958,West India,Mobile App,774.05,07-09-2024,2,0,,
+ORD10046,PRD5046,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST7366,East India,Website,3851.77,25-02-2024,4,0,,
+ORD10047,PRD5047,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST9925,North India,Retail Store,3900.64,05-03-2024,7,0,,
+ORD10048,PRD5048,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST2640,East India,Mobile App,2709.12,23-02-2024,3,0,,
+ORD10049,PRD5049,Boat Electronics Product,Electronics,Boat,CUST6784,North India,Mobile App,322.01,23-03-2024,6,0,,
+ORD10050,PRD5050,Lakme Books Product,Books,Lakme,CUST9145,South India,Mobile App,350.86,28-01-2024,10,0,,
+ORD10051,PRD5051,Boat Books Product,Books,Boat,CUST6425,East India,Mobile App,1708.91,06-04-2024,9,0,,
+ORD10052,PRD5052,Philips Books Product,Books,Philips,CUST4776,East India,Mobile App,4556.32,13-01-2024,9,0,,
+ORD10053,PRD5053,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST4348,South India,Website,2169.84,06-04-2024,9,0,,
+ORD10054,PRD5054,Samsung Footwear Product,Footwear,Samsung,CUST9747,West India,Retail Store,1298.23,01-10-2024,5,0,,
+ORD10055,PRD5055,Samsung Electronics Product,Electronics,Samsung,CUST5005,West India,Website,1590.81,25-11-2024,8,0,,
+ORD10056,PRD5056,Nike Apparel Product,Apparel,Nike,CUST6349,North India,Retail Store,4662.55,01-02-2024,4,1,Other,08-02-2024
+ORD10057,PRD5057,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST4677,West India,Mobile App,3240.34,14-05-2024,9,1,Size mismatch,26-05-2024
+ORD10058,PRD5058,Boat Beauty Product,Beauty,Boat,CUST8486,East India,Website,4057.63,26-05-2024,5,0,,
+ORD10059,PRD5059,Lakme Apparel Product,Apparel,Lakme,CUST5729,East India,Mobile App,4484.28,03-03-2024,4,0,,
+ORD10060,PRD5060,Nike Beauty Product,Beauty,Nike,CUST7612,North India,Website,4075.71,20-09-2024,9,1,Other,05-10-2024
+ORD10061,PRD5061,Nike Footwear Product,Footwear,Nike,CUST7482,East India,Mobile App,1726.42,04-04-2024,7,0,,
+ORD10062,PRD5062,Nike Books Product,Books,Nike,CUST1276,North India,Retail Store,1294.09,02-04-2024,8,0,,
+ORD10063,PRD5063,Boat Electronics Product,Electronics,Boat,CUST6748,North India,Website,4126.47,15-09-2024,5,1,Size mismatch,27-09-2024
+ORD10064,PRD5064,Philips Apparel Product,Apparel,Philips,CUST4323,East India,Website,233.37,27-12-2024,3,0,,
+ORD10065,PRD5065,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST5203,North India,Website,2203.57,23-02-2024,3,0,,
+ORD10066,PRD5066,Nike Books Product,Books,Nike,CUST6782,North India,Website,775.35,01-06-2024,5,0,,
+ORD10067,PRD5067,Boat Books Product,Books,Boat,CUST6841,South India,Mobile App,4725.97,09-03-2024,8,0,,
+ORD10068,PRD5068,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST1446,East India,Mobile App,2690.19,13-09-2024,5,0,,
+ORD10069,PRD5069,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST7615,East India,Mobile App,1945.42,24-11-2024,4,1,Late delivery,01-12-2024
+ORD10070,PRD5070,Lakme Electronics Product,Electronics,Lakme,CUST3644,North India,Retail Store,4819.75,11-05-2024,4,0,,
+ORD10071,PRD5071,Samsung Books Product,Books,Samsung,CUST7059,South India,Website,2586.79,13-09-2024,10,0,,
+ORD10072,PRD5072,Lakme Beauty Product,Beauty,Lakme,CUST9765,West India,Retail Store,1567.23,04-06-2024,10,0,,
+ORD10073,PRD5073,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9964,North India,Mobile App,3125.91,24-03-2024,4,0,,
+ORD10074,PRD5074,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST8852,East India,Mobile App,447.1,11-08-2024,7,0,,
+ORD10075,PRD5075,Philips Footwear Product,Footwear,Philips,CUST5115,West India,Retail Store,4559.68,25-11-2024,5,0,,
+ORD10076,PRD5076,Nike Electronics Product,Electronics,Nike,CUST2087,West India,Mobile App,895.5,10-04-2024,2,0,,
+ORD10077,PRD5077,Lakme Beauty Product,Beauty,Lakme,CUST6288,East India,Mobile App,4931.12,18-02-2024,10,0,,
+ORD10078,PRD5078,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST7588,West India,Retail Store,3426.25,02-01-2024,9,0,,
+ORD10079,PRD5079,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST2529,East India,Retail Store,1340.66,17-08-2024,2,0,,
+ORD10080,PRD5080,Samsung Footwear Product,Footwear,Samsung,CUST1810,North India,Website,1965.36,01-12-2024,8,0,,
+ORD10081,PRD5081,Nike Beauty Product,Beauty,Nike,CUST8479,West India,Retail Store,3240.94,18-12-2024,6,0,,
+ORD10082,PRD5082,Lakme Beauty Product,Beauty,Lakme,CUST4285,South India,Mobile App,633.39,09-02-2024,2,1,Wrong item sent,12-02-2024
+ORD10083,PRD5083,Lakme Books Product,Books,Lakme,CUST9834,East India,Retail Store,1739.74,20-09-2024,10,0,,
+ORD10084,PRD5084,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST2631,South India,Retail Store,395.72,08-12-2024,4,0,,
+ORD10085,PRD5085,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST2368,North India,Retail Store,3452.31,21-07-2024,2,0,,
+ORD10086,PRD5086,Samsung Electronics Product,Electronics,Samsung,CUST6052,North India,Mobile App,2658.05,24-07-2024,6,0,,
+ORD10087,PRD5087,Philips Books Product,Books,Philips,CUST4435,East India,Website,3296.83,09-09-2024,10,0,,
+ORD10088,PRD5088,Philips Beauty Product,Beauty,Philips,CUST4626,South India,Mobile App,3516.5,15-10-2024,4,0,,
+ORD10089,PRD5089,Samsung Footwear Product,Footwear,Samsung,CUST1274,South India,Mobile App,4696.3,12-06-2024,9,0,,
+ORD10090,PRD5090,Boat Apparel Product,Apparel,Boat,CUST2627,South India,Retail Store,1837.12,13-08-2024,9,0,,
+ORD10091,PRD5091,Lakme Footwear Product,Footwear,Lakme,CUST5298,North India,Retail Store,4638.53,23-08-2024,10,1,Changed mind,12-09-2024
+ORD10092,PRD5092,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST4055,West India,Retail Store,1438.12,19-06-2024,7,0,,
+ORD10093,PRD5093,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST6104,North India,Website,4122.67,03-08-2024,2,0,,
+ORD10094,PRD5094,Nike Beauty Product,Beauty,Nike,CUST7329,East India,Retail Store,2742.32,24-07-2024,6,0,,
+ORD10095,PRD5095,Nike Books Product,Books,Nike,CUST7299,West India,Mobile App,646.89,28-06-2024,10,1,Defective item,17-07-2024
+ORD10096,PRD5096,Boat Footwear Product,Footwear,Boat,CUST3133,West India,Website,4522.01,07-08-2024,4,0,,
+ORD10097,PRD5097,Samsung Footwear Product,Footwear,Samsung,CUST6704,North India,Mobile App,1827.34,06-10-2024,7,0,,
+ORD10098,PRD5098,Samsung Beauty Product,Beauty,Samsung,CUST8487,East India,Website,3684.59,11-07-2024,6,1,Size mismatch,20-07-2024
+ORD10099,PRD5099,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST8098,North India,Mobile App,4458.01,03-08-2024,3,0,,
+ORD10100,PRD5100,Nike Footwear Product,Footwear,Nike,CUST2053,North India,Retail Store,3281.75,20-06-2024,6,0,,
+ORD10101,PRD5101,Nike Beauty Product,Beauty,Nike,CUST7488,East India,Retail Store,975.82,22-06-2024,10,1,Wrong item sent,05-07-2024
+ORD10102,PRD5102,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST9253,South India,Retail Store,3110.86,14-04-2024,2,0,,
+ORD10103,PRD5103,Lakme Footwear Product,Footwear,Lakme,CUST7852,South India,Website,687.06,14-06-2024,5,0,,
+ORD10104,PRD5104,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9163,East India,Website,224.3,11-09-2024,9,0,,
+ORD10105,PRD5105,Samsung Beauty Product,Beauty,Samsung,CUST6180,South India,Retail Store,2833.92,03-08-2024,5,0,,
+ORD10106,PRD5106,Nike Books Product,Books,Nike,CUST4355,West India,Retail Store,3329.41,01-11-2024,3,0,,
+ORD10107,PRD5107,Nike Beauty Product,Beauty,Nike,CUST3079,East India,Mobile App,3618.46,07-09-2024,3,0,,
+ORD10108,PRD5108,Nike Books Product,Books,Nike,CUST4733,West India,Website,1761.92,24-09-2024,10,0,,
+ORD10109,PRD5109,Samsung Footwear Product,Footwear,Samsung,CUST7735,West India,Retail Store,3318.24,06-10-2024,6,1,Defective item,17-10-2024
+ORD10110,PRD5110,Boat Beauty Product,Beauty,Boat,CUST2495,North India,Retail Store,3356.54,19-01-2024,3,0,,
+ORD10111,PRD5111,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST6966,North India,Retail Store,649.64,20-01-2024,4,0,,
+ORD10112,PRD5112,Samsung Footwear Product,Footwear,Samsung,CUST6623,South India,Mobile App,1472.97,21-09-2024,10,0,,
+ORD10113,PRD5113,Lakme Beauty Product,Beauty,Lakme,CUST2471,West India,Retail Store,4870.45,08-07-2024,6,0,,
+ORD10114,PRD5114,Boat Beauty Product,Beauty,Boat,CUST2338,North India,Website,4481.82,10-06-2024,8,0,,
+ORD10115,PRD5115,Lakme Beauty Product,Beauty,Lakme,CUST4913,South India,Mobile App,4015.09,27-07-2024,3,0,,
+ORD10116,PRD5116,Nike Books Product,Books,Nike,CUST7046,North India,Mobile App,2969.14,10-08-2024,9,0,,
+ORD10117,PRD5117,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST7948,North India,Website,1137.17,11-12-2024,5,0,,
+ORD10118,PRD5118,Lakme Apparel Product,Apparel,Lakme,CUST4738,East India,Website,1547.71,27-03-2024,7,0,,
+ORD10119,PRD5119,Boat Electronics Product,Electronics,Boat,CUST7530,North India,Website,3298.27,07-04-2024,4,0,,
+ORD10120,PRD5120,Nike Footwear Product,Footwear,Nike,CUST7350,North India,Retail Store,4714.2,18-11-2024,5,1,Late delivery,26-11-2024
+ORD10121,PRD5121,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST8837,North India,Retail Store,4591.35,26-10-2024,3,0,,
+ORD10122,PRD5122,Boat Beauty Product,Beauty,Boat,CUST2825,West India,Retail Store,274.19,23-05-2024,10,1,Other,03-06-2024
+ORD10123,PRD5123,Lakme Electronics Product,Electronics,Lakme,CUST3035,South India,Retail Store,2255.28,18-05-2024,2,1,Changed mind,23-05-2024
+ORD10124,PRD5124,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST6000,South India,Mobile App,4825.38,17-05-2024,8,1,Size mismatch,01-06-2024
+ORD10125,PRD5125,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST1061,North India,Mobile App,1613.35,05-03-2024,2,0,,
+ORD10126,PRD5126,Lakme Apparel Product,Apparel,Lakme,CUST5605,South India,Website,4285.46,28-07-2024,10,0,,
+ORD10127,PRD5127,Philips Books Product,Books,Philips,CUST3474,North India,Website,1013.57,17-06-2024,5,0,,
+ORD10128,PRD5128,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST9904,South India,Website,4693.54,24-08-2024,8,0,,
+ORD10129,PRD5129,Lakme Footwear Product,Footwear,Lakme,CUST8950,East India,Website,2936.29,07-11-2024,4,0,,
+ORD10130,PRD5130,Samsung Books Product,Books,Samsung,CUST2907,North India,Retail Store,3152.03,23-01-2024,6,1,Size mismatch,07-02-2024
+ORD10131,PRD5131,AmazonBasics Books Product,Books,AmazonBasics,CUST5213,South India,Retail Store,872.4,13-04-2024,4,0,,
+ORD10132,PRD5132,Samsung Books Product,Books,Samsung,CUST9018,North India,Retail Store,4411.39,28-05-2024,6,0,,
+ORD10133,PRD5133,Samsung Apparel Product,Apparel,Samsung,CUST7023,West India,Mobile App,3545.68,27-11-2024,4,0,,
+ORD10134,PRD5134,Philips Beauty Product,Beauty,Philips,CUST7365,South India,Mobile App,1925.56,03-10-2024,6,0,,
+ORD10135,PRD5135,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST2990,North India,Retail Store,4084.93,25-02-2024,10,1,Defective item,08-03-2024
+ORD10136,PRD5136,Nike Apparel Product,Apparel,Nike,CUST8565,South India,Retail Store,4361.95,05-09-2024,10,1,Other,19-09-2024
+ORD10137,PRD5137,Boat Beauty Product,Beauty,Boat,CUST3793,West India,Website,2654.44,26-06-2024,5,0,,
+ORD10138,PRD5138,Nike Books Product,Books,Nike,CUST1155,South India,Mobile App,4031.82,03-05-2024,10,0,,
+ORD10139,PRD5139,Philips Beauty Product,Beauty,Philips,CUST2530,East India,Mobile App,3569.44,09-10-2024,3,0,,
+ORD10140,PRD5140,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST2933,North India,Retail Store,4472.03,10-10-2024,8,0,,
+ORD10141,PRD5141,Samsung Beauty Product,Beauty,Samsung,CUST8795,West India,Website,2002.8,16-06-2024,4,0,,
+ORD10142,PRD5142,Philips Footwear Product,Footwear,Philips,CUST2705,South India,Mobile App,2975.74,11-07-2024,6,0,,
+ORD10143,PRD5143,Philips Beauty Product,Beauty,Philips,CUST4007,West India,Retail Store,2434.87,06-11-2024,4,0,,
+ORD10144,PRD5144,Philips Footwear Product,Footwear,Philips,CUST8093,East India,Mobile App,1575.4,19-09-2024,10,0,,
+ORD10145,PRD5145,Lakme Apparel Product,Apparel,Lakme,CUST7878,West India,Mobile App,346.4,04-05-2024,9,0,,
+ORD10146,PRD5146,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST2778,North India,Website,4148.48,15-02-2024,4,0,,
+ORD10147,PRD5147,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST3980,East India,Website,809.89,01-11-2024,10,0,,
+ORD10148,PRD5148,Philips Apparel Product,Apparel,Philips,CUST7680,North India,Website,3895.97,16-12-2024,6,0,,
+ORD10149,PRD5149,Nike Footwear Product,Footwear,Nike,CUST1262,West India,Website,3189.87,15-03-2024,9,0,,
+ORD10150,PRD5150,Samsung Books Product,Books,Samsung,CUST7234,South India,Retail Store,448.07,10-12-2024,7,0,,
+ORD10151,PRD5151,Boat Apparel Product,Apparel,Boat,CUST4795,South India,Mobile App,2795.05,01-04-2024,5,0,,
+ORD10152,PRD5152,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST5578,South India,Retail Store,3685.24,06-01-2024,6,1,Late delivery,14-01-2024
+ORD10153,PRD5153,Samsung Footwear Product,Footwear,Samsung,CUST4797,East India,Mobile App,2678.24,07-09-2024,5,0,,
+ORD10154,PRD5154,Philips Beauty Product,Beauty,Philips,CUST9294,South India,Mobile App,4016.89,14-01-2024,6,0,,
+ORD10155,PRD5155,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST9809,North India,Mobile App,2307.06,09-03-2024,3,0,,
+ORD10156,PRD5156,Lakme Apparel Product,Apparel,Lakme,CUST4284,East India,Mobile App,321.68,19-07-2024,5,1,Size mismatch,29-07-2024
+ORD10157,PRD5157,Philips Electronics Product,Electronics,Philips,CUST2836,South India,Website,4212.7,16-01-2024,8,0,,
+ORD10158,PRD5158,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST9262,South India,Retail Store,2162.97,03-04-2024,3,0,,
+ORD10159,PRD5159,Lakme Beauty Product,Beauty,Lakme,CUST3280,South India,Retail Store,950.9,27-07-2024,9,0,,
+ORD10160,PRD5160,Boat Apparel Product,Apparel,Boat,CUST6920,West India,Website,2836.29,06-12-2024,5,0,,
+ORD10161,PRD5161,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST3250,East India,Retail Store,3368.95,25-08-2024,4,0,,
+ORD10162,PRD5162,Philips Apparel Product,Apparel,Philips,CUST5183,South India,Retail Store,4783.35,17-07-2024,10,0,,
+ORD10163,PRD5163,Lakme Apparel Product,Apparel,Lakme,CUST7562,West India,Website,2860.9,06-10-2024,5,0,,
+ORD10164,PRD5164,Nike Footwear Product,Footwear,Nike,CUST6148,South India,Website,2214.08,25-05-2024,9,0,,
+ORD10165,PRD5165,Philips Books Product,Books,Philips,CUST7526,South India,Website,1908.67,17-01-2024,7,0,,
+ORD10166,PRD5166,AmazonBasics Books Product,Books,AmazonBasics,CUST4551,East India,Website,269.09,26-01-2024,7,0,,
+ORD10167,PRD5167,Boat Books Product,Books,Boat,CUST2085,West India,Retail Store,420.81,07-09-2024,3,0,,
+ORD10168,PRD5168,Nike Footwear Product,Footwear,Nike,CUST6377,North India,Mobile App,4306.21,21-10-2024,3,0,,
+ORD10169,PRD5169,Philips Electronics Product,Electronics,Philips,CUST8840,North India,Mobile App,2476.03,02-02-2024,3,0,,
+ORD10170,PRD5170,Boat Apparel Product,Apparel,Boat,CUST2393,West India,Retail Store,2559.76,20-01-2024,2,0,,
+ORD10171,PRD5171,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST7368,West India,Website,1031.37,14-12-2024,5,0,,
+ORD10172,PRD5172,Nike Electronics Product,Electronics,Nike,CUST3517,South India,Website,2112.82,11-04-2024,9,0,,
+ORD10173,PRD5173,Lakme Electronics Product,Electronics,Lakme,CUST8599,East India,Retail Store,3248.45,11-09-2024,9,0,,
+ORD10174,PRD5174,Lakme Books Product,Books,Lakme,CUST9530,West India,Website,1998.14,25-10-2024,4,0,,
+ORD10175,PRD5175,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST1648,North India,Website,2615.05,19-11-2024,10,1,Late delivery,03-12-2024
+ORD10176,PRD5176,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST8788,East India,Website,3361.73,24-11-2024,9,0,,
+ORD10177,PRD5177,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST9243,South India,Retail Store,538.73,22-02-2024,8,0,,
+ORD10178,PRD5178,Samsung Apparel Product,Apparel,Samsung,CUST7878,West India,Website,327.25,12-02-2024,2,0,,
+ORD10179,PRD5179,Nike Books Product,Books,Nike,CUST5756,North India,Mobile App,4713.11,15-07-2024,5,0,,
+ORD10180,PRD5180,Boat Apparel Product,Apparel,Boat,CUST8358,South India,Mobile App,2063.22,10-08-2024,3,0,,
+ORD10181,PRD5181,Nike Footwear Product,Footwear,Nike,CUST4224,South India,Website,2399.61,26-07-2024,2,0,,
+ORD10182,PRD5182,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST9597,East India,Retail Store,4719.03,03-04-2024,10,0,,
+ORD10183,PRD5183,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST8184,North India,Website,4813.71,01-09-2024,4,1,Late delivery,09-09-2024
+ORD10184,PRD5184,Philips Beauty Product,Beauty,Philips,CUST8064,East India,Website,1139.8,06-05-2024,5,0,,
+ORD10185,PRD5185,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST1418,West India,Website,683.73,27-09-2024,7,0,,
+ORD10186,PRD5186,Nike Electronics Product,Electronics,Nike,CUST2895,South India,Mobile App,653.33,16-10-2024,9,0,,
+ORD10187,PRD5187,AmazonBasics Books Product,Books,AmazonBasics,CUST5177,East India,Retail Store,541.71,11-06-2024,10,0,,
+ORD10188,PRD5188,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST5949,North India,Website,4255.4,09-10-2024,4,0,,
+ORD10189,PRD5189,Nike Apparel Product,Apparel,Nike,CUST1458,East India,Mobile App,4109.45,28-11-2024,6,0,,
+ORD10190,PRD5190,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST2833,North India,Website,767.19,15-03-2024,5,0,,
+ORD10191,PRD5191,Philips Electronics Product,Electronics,Philips,CUST6599,North India,Retail Store,3218.93,19-05-2024,8,1,Wrong item sent,05-06-2024
+ORD10192,PRD5192,Samsung Books Product,Books,Samsung,CUST8018,South India,Website,3728.34,18-11-2024,7,1,Defective item,30-11-2024
+ORD10193,PRD5193,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST4614,West India,Retail Store,1553.77,12-02-2024,5,0,,
+ORD10194,PRD5194,Philips Books Product,Books,Philips,CUST2668,South India,Website,3802.95,02-08-2024,10,1,Changed mind,21-08-2024
+ORD10195,PRD5195,Nike Footwear Product,Footwear,Nike,CUST3884,South India,Retail Store,4954.42,01-11-2024,8,0,,
+ORD10196,PRD5196,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST6791,West India,Mobile App,1985.69,05-07-2024,2,0,,
+ORD10197,PRD5197,Boat Apparel Product,Apparel,Boat,CUST2956,North India,Retail Store,1835.86,04-07-2024,2,1,Other,08-07-2024
+ORD10198,PRD5198,Samsung Beauty Product,Beauty,Samsung,CUST6294,East India,Retail Store,4320.38,02-06-2024,5,0,,
+ORD10199,PRD5199,Lakme Beauty Product,Beauty,Lakme,CUST7036,South India,Retail Store,3804.18,26-10-2024,6,0,,
+ORD10200,PRD5200,Samsung Apparel Product,Apparel,Samsung,CUST1437,South India,Retail Store,694.99,26-04-2024,9,1,Changed mind,09-05-2024
+ORD10201,PRD5201,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST9879,North India,Retail Store,2625.21,13-12-2024,10,1,Wrong item sent,24-12-2024
+ORD10202,PRD5202,Boat Footwear Product,Footwear,Boat,CUST1646,East India,Retail Store,1736.24,22-10-2024,7,1,Late delivery,06-11-2024
+ORD10203,PRD5203,Lakme Apparel Product,Apparel,Lakme,CUST8990,East India,Retail Store,2068.17,19-10-2024,2,0,,
+ORD10204,PRD5204,Lakme Apparel Product,Apparel,Lakme,CUST1526,West India,Website,4545.83,28-05-2024,3,0,,
+ORD10205,PRD5205,Lakme Electronics Product,Electronics,Lakme,CUST2546,East India,Mobile App,1732.71,02-05-2024,6,1,Size mismatch,17-05-2024
+ORD10206,PRD5206,Nike Apparel Product,Apparel,Nike,CUST5380,North India,Retail Store,4762.91,13-09-2024,7,0,,
+ORD10207,PRD5207,Nike Beauty Product,Beauty,Nike,CUST6438,West India,Retail Store,3232.82,07-01-2024,2,0,,
+ORD10208,PRD5208,Nike Apparel Product,Apparel,Nike,CUST2231,East India,Retail Store,1607.41,14-05-2024,10,0,,
+ORD10209,PRD5209,Philips Footwear Product,Footwear,Philips,CUST1269,East India,Mobile App,3428.09,17-08-2024,3,0,,
+ORD10210,PRD5210,Samsung Apparel Product,Apparel,Samsung,CUST6098,East India,Mobile App,3999.58,25-11-2024,8,0,,
+ORD10211,PRD5211,Philips Beauty Product,Beauty,Philips,CUST2323,West India,Mobile App,637.79,23-12-2024,10,0,,
+ORD10212,PRD5212,Nike Beauty Product,Beauty,Nike,CUST9713,South India,Retail Store,476.28,22-04-2024,4,0,,
+ORD10213,PRD5213,Nike Footwear Product,Footwear,Nike,CUST9260,East India,Website,2319.35,15-11-2024,2,1,Changed mind,22-11-2024
+ORD10214,PRD5214,Boat Beauty Product,Beauty,Boat,CUST3221,West India,Mobile App,1884.39,14-02-2024,5,0,,
+ORD10215,PRD5215,Samsung Books Product,Books,Samsung,CUST1241,West India,Retail Store,886.36,26-08-2024,6,0,,
+ORD10216,PRD5216,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST7184,South India,Mobile App,3167.45,18-01-2024,6,0,,
+ORD10217,PRD5217,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST4939,North India,Mobile App,603.71,14-06-2024,2,0,,
+ORD10218,PRD5218,Samsung Electronics Product,Electronics,Samsung,CUST7625,East India,Website,549.26,23-01-2024,3,1,Size mismatch,30-01-2024
+ORD10219,PRD5219,Nike Footwear Product,Footwear,Nike,CUST6270,North India,Retail Store,3589.96,19-03-2024,5,0,,
+ORD10220,PRD5220,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST6195,North India,Retail Store,607.22,27-03-2024,5,1,Size mismatch,05-04-2024
+ORD10221,PRD5221,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST3893,West India,Retail Store,1996.5,24-10-2024,3,0,,
+ORD10222,PRD5222,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST2083,South India,Website,4101.44,20-12-2024,3,1,Wrong item sent,02-01-2025
+ORD10223,PRD5223,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST1035,West India,Retail Store,4932.81,24-03-2024,2,0,,
+ORD10224,PRD5224,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST8114,South India,Retail Store,2006.05,26-04-2024,10,0,,
+ORD10225,PRD5225,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9609,North India,Mobile App,3930.31,22-03-2024,10,0,,
+ORD10226,PRD5226,Nike Electronics Product,Electronics,Nike,CUST5217,South India,Retail Store,2236.27,08-11-2024,10,1,Late delivery,26-11-2024
+ORD10227,PRD5227,Lakme Beauty Product,Beauty,Lakme,CUST7815,South India,Retail Store,733.75,23-03-2024,10,0,,
+ORD10228,PRD5228,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST6040,South India,Website,254.5,28-06-2024,2,0,,
+ORD10229,PRD5229,Philips Apparel Product,Apparel,Philips,CUST3598,West India,Retail Store,470.26,26-11-2024,2,0,,
+ORD10230,PRD5230,Nike Apparel Product,Apparel,Nike,CUST6981,North India,Mobile App,764.13,17-10-2024,2,0,,
+ORD10231,PRD5231,Philips Books Product,Books,Philips,CUST3420,North India,Website,3781.02,05-09-2024,9,0,,
+ORD10232,PRD5232,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST9704,West India,Mobile App,4818.43,17-03-2024,5,0,,
+ORD10233,PRD5233,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST3224,South India,Mobile App,1571.42,27-02-2024,9,1,Defective item,13-03-2024
+ORD10234,PRD5234,Nike Books Product,Books,Nike,CUST7591,South India,Mobile App,1273.26,14-08-2024,9,1,Defective item,01-09-2024
+ORD10235,PRD5235,Boat Apparel Product,Apparel,Boat,CUST7432,West India,Retail Store,258.34,06-06-2024,9,1,Late delivery,20-06-2024
+ORD10236,PRD5236,Philips Electronics Product,Electronics,Philips,CUST8775,North India,Retail Store,407.17,03-11-2024,6,1,Late delivery,17-11-2024
+ORD10237,PRD5237,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST2547,North India,Retail Store,2732.97,19-04-2024,3,1,Wrong item sent,27-04-2024
+ORD10238,PRD5238,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST5412,West India,Mobile App,554.22,06-09-2024,2,0,,
+ORD10239,PRD5239,Philips Books Product,Books,Philips,CUST2803,North India,Website,4852.65,21-02-2024,5,0,,
+ORD10240,PRD5240,Samsung Books Product,Books,Samsung,CUST7321,North India,Retail Store,3221.11,14-01-2024,10,0,,
+ORD10241,PRD5241,Samsung Footwear Product,Footwear,Samsung,CUST6651,North India,Mobile App,2381.8,20-10-2024,9,0,,
+ORD10242,PRD5242,Nike Apparel Product,Apparel,Nike,CUST8719,South India,Website,3004.71,26-11-2024,5,1,Size mismatch,07-12-2024
+ORD10243,PRD5243,Philips Apparel Product,Apparel,Philips,CUST4256,North India,Retail Store,418.14,11-07-2024,8,0,,
+ORD10244,PRD5244,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST8535,West India,Mobile App,4761.98,20-05-2024,8,1,Defective item,03-06-2024
+ORD10245,PRD5245,Boat Beauty Product,Beauty,Boat,CUST2491,East India,Retail Store,2387.15,15-03-2024,8,0,,
+ORD10246,PRD5246,Nike Footwear Product,Footwear,Nike,CUST3990,East India,Mobile App,1531.43,01-10-2024,10,0,,
+ORD10247,PRD5247,Samsung Footwear Product,Footwear,Samsung,CUST1656,South India,Website,2425.75,11-01-2024,10,0,,
+ORD10248,PRD5248,Samsung Beauty Product,Beauty,Samsung,CUST9576,West India,Mobile App,3001.55,12-01-2024,5,0,,
+ORD10249,PRD5249,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST9001,East India,Website,4877.1,01-08-2024,6,1,Size mismatch,15-08-2024
+ORD10250,PRD5250,AmazonBasics Books Product,Books,AmazonBasics,CUST1330,West India,Retail Store,3551.18,19-06-2024,4,0,,
+ORD10251,PRD5251,Nike Beauty Product,Beauty,Nike,CUST1733,West India,Mobile App,1685.73,19-07-2024,4,1,Late delivery,26-07-2024
+ORD10252,PRD5252,Lakme Beauty Product,Beauty,Lakme,CUST6944,North India,Retail Store,3486.71,08-09-2024,10,0,,
+ORD10253,PRD5253,Boat Beauty Product,Beauty,Boat,CUST8946,West India,Retail Store,4572.45,26-07-2024,8,1,Wrong item sent,11-08-2024
+ORD10254,PRD5254,Boat Electronics Product,Electronics,Boat,CUST5942,West India,Website,4759.04,19-01-2024,7,0,,
+ORD10255,PRD5255,Nike Electronics Product,Electronics,Nike,CUST8469,West India,Website,3144.39,05-02-2024,8,0,,
+ORD10256,PRD5256,Samsung Apparel Product,Apparel,Samsung,CUST9440,West India,Website,4677.1,21-11-2024,7,1,Defective item,04-12-2024
+ORD10257,PRD5257,Lakme Apparel Product,Apparel,Lakme,CUST1206,East India,Mobile App,417.05,01-06-2024,2,0,,
+ORD10258,PRD5258,Boat Electronics Product,Electronics,Boat,CUST8939,North India,Retail Store,2007.02,24-08-2024,10,1,Late delivery,12-09-2024
+ORD10259,PRD5259,Lakme Footwear Product,Footwear,Lakme,CUST8424,West India,Retail Store,4938.93,06-07-2024,6,0,,
+ORD10260,PRD5260,Lakme Electronics Product,Electronics,Lakme,CUST7750,East India,Retail Store,3051.83,17-12-2024,10,0,,
+ORD10261,PRD5261,Philips Footwear Product,Footwear,Philips,CUST8604,South India,Retail Store,4855.59,10-06-2024,4,1,Late delivery,17-06-2024
+ORD10262,PRD5262,Boat Electronics Product,Electronics,Boat,CUST1793,North India,Mobile App,4223.98,21-04-2024,8,0,,
+ORD10263,PRD5263,Lakme Beauty Product,Beauty,Lakme,CUST7992,East India,Website,2191.13,28-08-2024,8,0,,
+ORD10264,PRD5264,Nike Footwear Product,Footwear,Nike,CUST6352,North India,Retail Store,470.6,06-04-2024,6,1,Wrong item sent,20-04-2024
+ORD10265,PRD5265,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST2491,North India,Retail Store,4101.92,28-04-2024,4,1,Late delivery,05-05-2024
+ORD10266,PRD5266,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST3596,West India,Mobile App,4983.86,05-12-2024,8,0,,
+ORD10267,PRD5267,Samsung Books Product,Books,Samsung,CUST8705,East India,Website,3891.14,01-05-2024,6,1,Wrong item sent,11-05-2024
+ORD10268,PRD5268,Philips Beauty Product,Beauty,Philips,CUST7272,South India,Website,4278.31,06-01-2024,4,0,,
+ORD10269,PRD5269,Samsung Books Product,Books,Samsung,CUST5907,West India,Mobile App,2362.61,15-05-2024,6,0,,
+ORD10270,PRD5270,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST2312,West India,Website,4779.44,24-03-2024,6,0,,
+ORD10271,PRD5271,Lakme Books Product,Books,Lakme,CUST3807,South India,Retail Store,1297.49,08-09-2024,10,0,,
+ORD10272,PRD5272,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST3571,West India,Mobile App,3167.02,15-04-2024,3,0,,
+ORD10273,PRD5273,Philips Electronics Product,Electronics,Philips,CUST7923,West India,Website,745.08,11-07-2024,8,0,,
+ORD10274,PRD5274,Boat Books Product,Books,Boat,CUST2898,North India,Retail Store,2697.48,14-12-2024,7,0,,
+ORD10275,PRD5275,Samsung Beauty Product,Beauty,Samsung,CUST8499,East India,Website,2696.78,10-12-2024,3,1,Size mismatch,20-12-2024
+ORD10276,PRD5276,Nike Footwear Product,Footwear,Nike,CUST9024,North India,Mobile App,2849.15,06-03-2024,10,0,,
+ORD10277,PRD5277,Nike Electronics Product,Electronics,Nike,CUST8419,North India,Website,4407.94,20-11-2024,5,0,,
+ORD10278,PRD5278,Boat Footwear Product,Footwear,Boat,CUST4464,South India,Mobile App,843.27,05-08-2024,5,0,,
+ORD10279,PRD5279,Philips Beauty Product,Beauty,Philips,CUST9734,South India,Mobile App,3824.66,22-04-2024,5,0,,
+ORD10280,PRD5280,Lakme Apparel Product,Apparel,Lakme,CUST6243,South India,Retail Store,3579.58,13-02-2024,5,0,,
+ORD10281,PRD5281,Nike Footwear Product,Footwear,Nike,CUST6215,West India,Website,854.58,19-11-2024,7,0,,
+ORD10282,PRD5282,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST3881,West India,Retail Store,1882.82,03-09-2024,3,0,,
+ORD10283,PRD5283,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST2129,South India,Retail Store,2082.77,10-01-2024,5,0,,
+ORD10284,PRD5284,Nike Books Product,Books,Nike,CUST3566,East India,Mobile App,4539.96,06-08-2024,9,0,,
+ORD10285,PRD5285,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST2229,West India,Mobile App,2667.15,28-07-2024,2,0,,
+ORD10286,PRD5286,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST3627,North India,Mobile App,2103.41,04-05-2024,5,0,,
+ORD10287,PRD5287,Lakme Books Product,Books,Lakme,CUST8815,West India,Website,4339.35,23-03-2024,2,1,Wrong item sent,04-04-2024
+ORD10288,PRD5288,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST6028,North India,Retail Store,905.95,11-07-2024,3,1,Other,20-07-2024
+ORD10289,PRD5289,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST5301,West India,Retail Store,2562.16,09-03-2024,8,0,,
+ORD10290,PRD5290,Samsung Footwear Product,Footwear,Samsung,CUST5126,West India,Website,2403.85,15-05-2024,9,1,Late delivery,28-05-2024
+ORD10291,PRD5291,Philips Electronics Product,Electronics,Philips,CUST4136,South India,Retail Store,2564.57,12-12-2024,4,0,,
+ORD10292,PRD5292,Philips Beauty Product,Beauty,Philips,CUST9823,West India,Retail Store,3240.32,25-02-2024,4,0,,
+ORD10293,PRD5293,Samsung Beauty Product,Beauty,Samsung,CUST6097,East India,Website,564.14,25-08-2024,7,0,,
+ORD10294,PRD5294,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST6782,North India,Mobile App,814.62,26-09-2024,7,0,,
+ORD10295,PRD5295,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST4075,South India,Retail Store,866.37,06-02-2024,2,0,,
+ORD10296,PRD5296,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST9853,North India,Retail Store,1073.02,23-07-2024,2,0,,
+ORD10297,PRD5297,Philips Apparel Product,Apparel,Philips,CUST3416,South India,Mobile App,4504.58,16-07-2024,4,0,,
+ORD10298,PRD5298,Lakme Books Product,Books,Lakme,CUST9250,East India,Website,3404.28,08-06-2024,4,0,,
+ORD10299,PRD5299,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST2379,North India,Mobile App,1122.99,14-06-2024,3,0,,
+ORD10300,PRD5300,Boat Footwear Product,Footwear,Boat,CUST3269,West India,Mobile App,1010.89,03-10-2024,5,0,,
+ORD10301,PRD5301,Philips Footwear Product,Footwear,Philips,CUST1845,East India,Mobile App,1049.65,13-11-2024,6,0,,
+ORD10302,PRD5302,Lakme Apparel Product,Apparel,Lakme,CUST1458,East India,Website,779.05,08-03-2024,8,0,,
+ORD10303,PRD5303,Samsung Books Product,Books,Samsung,CUST6119,East India,Mobile App,1190.4,03-07-2024,2,0,,
+ORD10304,PRD5304,AmazonBasics Books Product,Books,AmazonBasics,CUST7290,East India,Mobile App,2616.4,15-02-2024,8,0,,
+ORD10305,PRD5305,Nike Beauty Product,Beauty,Nike,CUST5530,West India,Mobile App,388.7,07-12-2024,3,0,,
+ORD10306,PRD5306,Boat Apparel Product,Apparel,Boat,CUST8719,North India,Mobile App,3213.92,14-04-2024,2,0,,
+ORD10307,PRD5307,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST6940,East India,Website,4393.18,16-11-2024,5,1,Late delivery,29-11-2024
+ORD10308,PRD5308,Lakme Books Product,Books,Lakme,CUST2583,North India,Retail Store,493.17,26-08-2024,6,0,,
+ORD10309,PRD5309,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST2502,North India,Website,4069.77,14-11-2024,2,0,,
+ORD10310,PRD5310,Lakme Apparel Product,Apparel,Lakme,CUST4947,South India,Mobile App,1085.7,21-10-2024,4,0,,
+ORD10311,PRD5311,Samsung Beauty Product,Beauty,Samsung,CUST7669,East India,Website,1978.27,15-03-2024,4,0,,
+ORD10312,PRD5312,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST9764,East India,Retail Store,3167.62,23-01-2024,7,0,,
+ORD10313,PRD5313,Samsung Apparel Product,Apparel,Samsung,CUST4178,South India,Website,2420.17,26-05-2024,9,0,,
+ORD10314,PRD5314,Philips Electronics Product,Electronics,Philips,CUST5982,East India,Website,376.08,19-02-2024,9,0,,
+ORD10315,PRD5315,Lakme Books Product,Books,Lakme,CUST5823,West India,Mobile App,3624.08,03-09-2024,8,1,Size mismatch,12-09-2024
+ORD10316,PRD5316,Boat Footwear Product,Footwear,Boat,CUST9053,South India,Mobile App,2656.05,08-12-2024,6,0,,
+ORD10317,PRD5317,Philips Beauty Product,Beauty,Philips,CUST7069,East India,Mobile App,714.43,18-06-2024,8,0,,
+ORD10318,PRD5318,Philips Electronics Product,Electronics,Philips,CUST2982,South India,Mobile App,2756.56,02-01-2024,9,0,,
+ORD10319,PRD5319,Nike Footwear Product,Footwear,Nike,CUST9342,East India,Website,1492.37,23-01-2024,6,0,,
+ORD10320,PRD5320,Philips Electronics Product,Electronics,Philips,CUST9249,East India,Website,296.34,04-09-2024,10,0,,
+ORD10321,PRD5321,Lakme Apparel Product,Apparel,Lakme,CUST9503,West India,Mobile App,1214.95,26-03-2024,10,0,,
+ORD10322,PRD5322,Nike Electronics Product,Electronics,Nike,CUST2757,East India,Website,774.86,02-10-2024,6,1,Wrong item sent,09-10-2024
+ORD10323,PRD5323,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST1119,West India,Mobile App,3049.24,14-08-2024,2,0,,
+ORD10324,PRD5324,Philips Footwear Product,Footwear,Philips,CUST5892,West India,Mobile App,3988.02,01-03-2024,8,0,,
+ORD10325,PRD5325,Boat Electronics Product,Electronics,Boat,CUST7732,North India,Retail Store,617.22,26-07-2024,3,0,,
+ORD10326,PRD5326,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST6853,West India,Retail Store,3016.84,27-11-2024,9,0,,
+ORD10327,PRD5327,Lakme Beauty Product,Beauty,Lakme,CUST7926,West India,Website,2271.97,05-11-2024,2,0,,
+ORD10328,PRD5328,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST1609,South India,Retail Store,1562.12,01-03-2024,5,0,,
+ORD10329,PRD5329,Samsung Books Product,Books,Samsung,CUST5949,South India,Mobile App,3300.4,21-04-2024,10,0,,
+ORD10330,PRD5330,Samsung Beauty Product,Beauty,Samsung,CUST2990,West India,Mobile App,1909.26,21-07-2024,7,1,Late delivery,01-08-2024
+ORD10331,PRD5331,Philips Apparel Product,Apparel,Philips,CUST6196,East India,Retail Store,3107.72,23-09-2024,8,0,,
+ORD10332,PRD5332,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST6170,North India,Mobile App,688.56,09-06-2024,10,0,,
+ORD10333,PRD5333,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST1560,West India,Website,1380.6,16-12-2024,9,0,,
+ORD10334,PRD5334,Philips Books Product,Books,Philips,CUST9071,East India,Mobile App,1095.52,23-03-2024,7,0,,
+ORD10335,PRD5335,Boat Beauty Product,Beauty,Boat,CUST4313,West India,Mobile App,1032.19,09-11-2024,10,1,Wrong item sent,28-11-2024
+ORD10336,PRD5336,Lakme Beauty Product,Beauty,Lakme,CUST2669,South India,Retail Store,585.12,20-05-2024,8,0,,
+ORD10337,PRD5337,Philips Electronics Product,Electronics,Philips,CUST7518,West India,Website,2169.9,22-10-2024,4,1,Changed mind,31-10-2024
+ORD10338,PRD5338,Boat Footwear Product,Footwear,Boat,CUST8954,West India,Website,737.79,03-04-2024,5,0,,
+ORD10339,PRD5339,Boat Apparel Product,Apparel,Boat,CUST4068,West India,Website,4853.46,05-03-2024,6,1,Defective item,18-03-2024
+ORD10340,PRD5340,Samsung Books Product,Books,Samsung,CUST4502,South India,Mobile App,4121.95,02-02-2024,6,0,,
+ORD10341,PRD5341,Lakme Apparel Product,Apparel,Lakme,CUST4644,North India,Mobile App,1020.26,26-12-2024,3,0,,
+ORD10342,PRD5342,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST9896,North India,Website,4661,04-10-2024,7,0,,
+ORD10343,PRD5343,Philips Beauty Product,Beauty,Philips,CUST1415,South India,Website,2943.74,18-11-2024,6,0,,
+ORD10344,PRD5344,Lakme Beauty Product,Beauty,Lakme,CUST5773,East India,Website,3893.57,20-11-2024,3,0,,
+ORD10345,PRD5345,Boat Beauty Product,Beauty,Boat,CUST3943,East India,Mobile App,1753.66,03-12-2024,10,0,,
+ORD10346,PRD5346,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST1628,North India,Retail Store,2636.53,06-11-2024,9,0,,
+ORD10347,PRD5347,Lakme Footwear Product,Footwear,Lakme,CUST8305,North India,Mobile App,751.22,19-10-2024,3,0,,
+ORD10348,PRD5348,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST5120,South India,Retail Store,1585.43,11-08-2024,4,0,,
+ORD10349,PRD5349,Boat Beauty Product,Beauty,Boat,CUST3393,South India,Website,940.94,10-08-2024,2,0,,
+ORD10350,PRD5350,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST8057,South India,Retail Store,2756.43,08-11-2024,10,0,,
+ORD10351,PRD5351,Nike Electronics Product,Electronics,Nike,CUST8554,North India,Retail Store,1815.7,18-07-2024,7,0,,
+ORD10352,PRD5352,Samsung Apparel Product,Apparel,Samsung,CUST6438,South India,Website,504.2,12-02-2024,9,1,Wrong item sent,02-03-2024
+ORD10353,PRD5353,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST4278,East India,Mobile App,1747.3,17-12-2024,3,1,Defective item,23-12-2024
+ORD10354,PRD5354,Lakme Beauty Product,Beauty,Lakme,CUST5114,South India,Mobile App,1422.28,26-05-2024,9,0,,
+ORD10355,PRD5355,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST6949,West India,Website,3849.09,12-02-2024,4,0,,
+ORD10356,PRD5356,Philips Books Product,Books,Philips,CUST5299,East India,Website,2463.57,10-06-2024,3,0,,
+ORD10357,PRD5357,Nike Electronics Product,Electronics,Nike,CUST6094,East India,Mobile App,1874.57,07-08-2024,3,1,Other,16-08-2024
+ORD10358,PRD5358,Boat Footwear Product,Footwear,Boat,CUST2588,West India,Website,4186.97,10-10-2024,8,1,Size mismatch,22-10-2024
+ORD10359,PRD5359,Nike Beauty Product,Beauty,Nike,CUST8996,North India,Website,796.63,19-03-2024,7,0,,
+ORD10360,PRD5360,Lakme Footwear Product,Footwear,Lakme,CUST6441,South India,Retail Store,4704.03,27-07-2024,6,0,,
+ORD10361,PRD5361,Samsung Books Product,Books,Samsung,CUST8353,South India,Mobile App,519.18,23-01-2024,4,0,,
+ORD10362,PRD5362,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST6846,South India,Website,2957.47,06-07-2024,7,1,Changed mind,19-07-2024
+ORD10363,PRD5363,Boat Footwear Product,Footwear,Boat,CUST4664,South India,Mobile App,870.91,24-04-2024,3,0,,
+ORD10364,PRD5364,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST5519,East India,Website,1167.81,13-09-2024,8,0,,
+ORD10365,PRD5365,Philips Footwear Product,Footwear,Philips,CUST9570,East India,Website,988.48,05-02-2024,2,1,Changed mind,14-02-2024
+ORD10366,PRD5366,Nike Footwear Product,Footwear,Nike,CUST3004,South India,Retail Store,3392.95,17-08-2024,3,0,,
+ORD10367,PRD5367,Lakme Beauty Product,Beauty,Lakme,CUST8301,North India,Mobile App,1922.39,23-02-2024,7,1,Wrong item sent,03-03-2024
+ORD10368,PRD5368,Samsung Beauty Product,Beauty,Samsung,CUST4555,North India,Retail Store,2083.74,10-12-2024,4,1,Changed mind,23-12-2024
+ORD10369,PRD5369,Samsung Beauty Product,Beauty,Samsung,CUST6811,North India,Website,2307.85,25-10-2024,4,0,,
+ORD10370,PRD5370,Samsung Apparel Product,Apparel,Samsung,CUST8910,West India,Retail Store,2420.86,08-03-2024,2,0,,
+ORD10371,PRD5371,Nike Apparel Product,Apparel,Nike,CUST6600,West India,Website,3788.53,14-09-2024,4,0,,
+ORD10372,PRD5372,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST4236,South India,Mobile App,1314.62,25-08-2024,10,1,Changed mind,12-09-2024
+ORD10373,PRD5373,Philips Beauty Product,Beauty,Philips,CUST9216,West India,Retail Store,2042.68,03-05-2024,7,0,,
+ORD10374,PRD5374,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST7798,West India,Retail Store,4551.07,05-09-2024,6,0,,
+ORD10375,PRD5375,Lakme Electronics Product,Electronics,Lakme,CUST7424,East India,Mobile App,761.11,20-10-2024,10,1,Size mismatch,31-10-2024
+ORD10376,PRD5376,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST9147,North India,Retail Store,3213,11-06-2024,9,0,,
+ORD10377,PRD5377,Philips Apparel Product,Apparel,Philips,CUST9818,East India,Mobile App,868.51,04-02-2024,7,0,,
+ORD10378,PRD5378,Lakme Footwear Product,Footwear,Lakme,CUST3667,West India,Mobile App,3176.35,04-12-2024,4,0,,
+ORD10379,PRD5379,Boat Apparel Product,Apparel,Boat,CUST2729,West India,Mobile App,4490.68,27-11-2024,8,0,,
+ORD10380,PRD5380,Philips Footwear Product,Footwear,Philips,CUST4535,South India,Mobile App,928.04,28-02-2024,9,0,,
+ORD10381,PRD5381,Samsung Books Product,Books,Samsung,CUST3314,West India,Retail Store,1392.75,07-04-2024,7,0,,
+ORD10382,PRD5382,Philips Books Product,Books,Philips,CUST2678,East India,Retail Store,360.96,07-11-2024,4,0,,
+ORD10383,PRD5383,Lakme Footwear Product,Footwear,Lakme,CUST1734,East India,Website,3859.8,28-07-2024,10,1,Late delivery,15-08-2024
+ORD10384,PRD5384,Samsung Beauty Product,Beauty,Samsung,CUST5382,North India,Website,1841.99,27-01-2024,8,1,Late delivery,12-02-2024
+ORD10385,PRD5385,Philips Beauty Product,Beauty,Philips,CUST9662,East India,Retail Store,731.03,02-05-2024,5,1,Changed mind,09-05-2024
+ORD10386,PRD5386,Philips Footwear Product,Footwear,Philips,CUST6887,South India,Website,811.95,22-03-2024,6,0,,
+ORD10387,PRD5387,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST8912,East India,Retail Store,4027.02,19-02-2024,3,0,,
+ORD10388,PRD5388,Boat Beauty Product,Beauty,Boat,CUST9171,North India,Retail Store,1300.41,23-09-2024,2,0,,
+ORD10389,PRD5389,Philips Apparel Product,Apparel,Philips,CUST5428,West India,Retail Store,3656.18,07-01-2024,9,0,,
+ORD10390,PRD5390,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST6022,West India,Mobile App,3530.95,23-06-2024,10,0,,
+ORD10391,PRD5391,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST7441,South India,Website,1408.64,02-11-2024,6,0,,
+ORD10392,PRD5392,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST7314,East India,Website,1071.67,03-06-2024,10,1,Size mismatch,23-06-2024
+ORD10393,PRD5393,Nike Apparel Product,Apparel,Nike,CUST8901,South India,Retail Store,3000.28,21-12-2024,7,0,,
+ORD10394,PRD5394,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST4063,North India,Retail Store,2417.63,06-10-2024,10,1,Size mismatch,21-10-2024
+ORD10395,PRD5395,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST6898,West India,Mobile App,936.09,20-04-2024,6,0,,
+ORD10396,PRD5396,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST8810,South India,Retail Store,2628.27,23-08-2024,9,0,,
+ORD10397,PRD5397,Lakme Books Product,Books,Lakme,CUST5098,South India,Website,286.93,10-06-2024,4,1,Late delivery,18-06-2024
+ORD10398,PRD5398,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST3417,West India,Mobile App,4674.17,18-03-2024,2,0,,
+ORD10399,PRD5399,Samsung Apparel Product,Apparel,Samsung,CUST5634,East India,Retail Store,3543.92,09-02-2024,6,1,Other,25-02-2024
+ORD10400,PRD5400,Nike Electronics Product,Electronics,Nike,CUST2853,West India,Mobile App,3594.75,06-12-2024,3,0,,
+ORD10401,PRD5401,Philips Beauty Product,Beauty,Philips,CUST4820,West India,Mobile App,2966.18,16-01-2024,2,0,,
+ORD10402,PRD5402,Philips Footwear Product,Footwear,Philips,CUST6942,South India,Retail Store,2235.83,27-04-2024,3,0,,
+ORD10403,PRD5403,Philips Beauty Product,Beauty,Philips,CUST5964,West India,Retail Store,4684.96,07-07-2024,5,1,Late delivery,19-07-2024
+ORD10404,PRD5404,Philips Electronics Product,Electronics,Philips,CUST6036,North India,Mobile App,2364.03,09-07-2024,10,0,,
+ORD10405,PRD5405,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST8536,North India,Retail Store,4927.24,21-02-2024,8,1,Changed mind,02-03-2024
+ORD10406,PRD5406,Nike Footwear Product,Footwear,Nike,CUST7330,South India,Mobile App,798.38,17-08-2024,2,1,Other,21-08-2024
+ORD10407,PRD5407,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST4701,East India,Website,4375.5,28-08-2024,7,0,,
+ORD10408,PRD5408,Nike Electronics Product,Electronics,Nike,CUST2414,South India,Website,3038.12,05-11-2024,10,0,,
+ORD10409,PRD5409,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST2078,West India,Website,462.86,09-02-2024,7,0,,
+ORD10410,PRD5410,Philips Books Product,Books,Philips,CUST2539,East India,Mobile App,4053.7,03-04-2024,9,0,,
+ORD10411,PRD5411,Philips Books Product,Books,Philips,CUST9472,South India,Retail Store,1800.8,10-01-2024,9,0,,
+ORD10412,PRD5412,Samsung Footwear Product,Footwear,Samsung,CUST1096,South India,Retail Store,2779.5,08-10-2024,2,1,Late delivery,18-10-2024
+ORD10413,PRD5413,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST9472,East India,Website,1862.46,07-02-2024,8,0,,
+ORD10414,PRD5414,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST7387,West India,Retail Store,3740.01,17-12-2024,6,0,,
+ORD10415,PRD5415,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST4770,East India,Mobile App,1278.1,03-09-2024,8,0,,
+ORD10416,PRD5416,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST4170,East India,Website,876.11,06-09-2024,8,0,,
+ORD10417,PRD5417,Lakme Books Product,Books,Lakme,CUST5977,South India,Retail Store,2592.17,16-03-2024,6,0,,
+ORD10418,PRD5418,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST5672,West India,Website,4591.26,13-03-2024,10,0,,
+ORD10419,PRD5419,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST9138,South India,Retail Store,2986.82,18-03-2024,6,0,,
+ORD10420,PRD5420,Nike Apparel Product,Apparel,Nike,CUST3260,North India,Retail Store,262.85,12-04-2024,4,0,,
+ORD10421,PRD5421,Nike Books Product,Books,Nike,CUST1432,West India,Mobile App,1054.57,04-09-2024,6,1,Late delivery,16-09-2024
+ORD10422,PRD5422,Philips Apparel Product,Apparel,Philips,CUST8018,South India,Website,913.58,21-06-2024,8,0,,
+ORD10423,PRD5423,AmazonBasics Books Product,Books,AmazonBasics,CUST3490,South India,Retail Store,609.68,13-11-2024,3,1,Wrong item sent,19-11-2024
+ORD10424,PRD5424,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST3350,East India,Mobile App,2610.54,25-06-2024,2,0,,
+ORD10425,PRD5425,Philips Electronics Product,Electronics,Philips,CUST5856,West India,Mobile App,521.97,24-03-2024,4,0,,
+ORD10426,PRD5426,Philips Electronics Product,Electronics,Philips,CUST4573,West India,Mobile App,1207.55,02-01-2024,10,1,Defective item,18-01-2024
+ORD10427,PRD5427,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST8299,East India,Retail Store,1184.67,16-05-2024,2,0,,
+ORD10428,PRD5428,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST6354,East India,Mobile App,375.44,13-04-2024,2,0,,
+ORD10429,PRD5429,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST7985,South India,Website,2911.24,09-11-2024,5,0,,
+ORD10430,PRD5430,Samsung Footwear Product,Footwear,Samsung,CUST2806,East India,Mobile App,3922.53,28-05-2024,10,0,,
+ORD10431,PRD5431,Lakme Electronics Product,Electronics,Lakme,CUST2059,East India,Mobile App,2717.07,22-10-2024,7,0,,
+ORD10432,PRD5432,Samsung Electronics Product,Electronics,Samsung,CUST5868,East India,Mobile App,2123.66,19-11-2024,9,0,,
+ORD10433,PRD5433,Boat Books Product,Books,Boat,CUST2535,East India,Retail Store,945.15,27-05-2024,2,0,,
+ORD10434,PRD5434,Philips Books Product,Books,Philips,CUST9398,South India,Website,4336.57,12-10-2024,8,1,Other,21-10-2024
+ORD10435,PRD5435,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST1537,North India,Mobile App,1991.88,14-05-2024,5,0,,
+ORD10436,PRD5436,Samsung Apparel Product,Apparel,Samsung,CUST8466,West India,Retail Store,3291.2,03-01-2024,5,0,,
+ORD10437,PRD5437,Nike Footwear Product,Footwear,Nike,CUST6542,East India,Retail Store,321.85,06-07-2024,8,0,,
+ORD10438,PRD5438,Samsung Footwear Product,Footwear,Samsung,CUST9711,South India,Retail Store,3636.67,08-04-2024,7,0,,
+ORD10439,PRD5439,Boat Beauty Product,Beauty,Boat,CUST1176,East India,Retail Store,330.06,01-09-2024,10,0,,
+ORD10440,PRD5440,Nike Beauty Product,Beauty,Nike,CUST9417,North India,Website,1309.16,14-05-2024,6,0,,
+ORD10441,PRD5441,Lakme Apparel Product,Apparel,Lakme,CUST4606,West India,Mobile App,294.61,19-07-2024,4,0,,
+ORD10442,PRD5442,Nike Electronics Product,Electronics,Nike,CUST5118,West India,Website,4039.6,07-12-2024,7,0,,
+ORD10443,PRD5443,Nike Footwear Product,Footwear,Nike,CUST7937,East India,Website,3333.18,15-11-2024,10,0,,
+ORD10444,PRD5444,Samsung Books Product,Books,Samsung,CUST8218,East India,Mobile App,677.32,12-04-2024,6,0,,
+ORD10445,PRD5445,Boat Beauty Product,Beauty,Boat,CUST9090,East India,Retail Store,3666.88,08-11-2024,2,1,Size mismatch,14-11-2024
+ORD10446,PRD5446,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST4351,West India,Mobile App,4185.06,28-11-2024,5,0,,
+ORD10447,PRD5447,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST3136,North India,Mobile App,3406.81,10-04-2024,3,0,,
+ORD10448,PRD5448,Boat Books Product,Books,Boat,CUST4989,North India,Mobile App,1607.11,23-10-2024,4,1,Late delivery,30-10-2024
+ORD10449,PRD5449,Philips Electronics Product,Electronics,Philips,CUST4418,East India,Retail Store,262.41,23-09-2024,7,0,,
+ORD10450,PRD5450,Boat Footwear Product,Footwear,Boat,CUST8753,North India,Retail Store,1197.85,04-12-2024,6,0,,
+ORD10451,PRD5451,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST4226,West India,Mobile App,1070.89,13-12-2024,10,0,,
+ORD10452,PRD5452,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST4561,West India,Mobile App,2222.84,09-03-2024,9,1,Late delivery,22-03-2024
+ORD10453,PRD5453,Boat Apparel Product,Apparel,Boat,CUST9323,South India,Mobile App,4123.73,09-05-2024,8,0,,
+ORD10454,PRD5454,Lakme Footwear Product,Footwear,Lakme,CUST6686,West India,Website,1445.23,21-03-2024,4,0,,
+ORD10455,PRD5455,Lakme Books Product,Books,Lakme,CUST8226,South India,Mobile App,3033.42,05-10-2024,8,0,,
+ORD10456,PRD5456,Lakme Books Product,Books,Lakme,CUST2450,East India,Mobile App,3195.91,03-03-2024,7,0,,
+ORD10457,PRD5457,Philips Books Product,Books,Philips,CUST6735,South India,Website,2849.83,21-05-2024,10,0,,
+ORD10458,PRD5458,Boat Footwear Product,Footwear,Boat,CUST1318,West India,Mobile App,1613.44,20-06-2024,9,1,Other,06-07-2024
+ORD10459,PRD5459,Philips Beauty Product,Beauty,Philips,CUST8972,South India,Website,3865.31,04-01-2024,2,0,,
+ORD10460,PRD5460,Samsung Books Product,Books,Samsung,CUST9699,South India,Mobile App,4368.65,07-11-2024,7,0,,
+ORD10461,PRD5461,Boat Electronics Product,Electronics,Boat,CUST9289,West India,Retail Store,4493.85,28-05-2024,5,0,,
+ORD10462,PRD5462,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST2337,East India,Mobile App,2241.02,26-11-2024,9,0,,
+ORD10463,PRD5463,Samsung Books Product,Books,Samsung,CUST1028,East India,Mobile App,1489.65,21-02-2024,9,0,,
+ORD10464,PRD5464,Boat Books Product,Books,Boat,CUST8558,West India,Retail Store,3240.7,25-02-2024,4,0,,
+ORD10465,PRD5465,Samsung Books Product,Books,Samsung,CUST7171,North India,Mobile App,868.91,25-11-2024,9,1,Wrong item sent,09-12-2024
+ORD10466,PRD5466,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST3502,West India,Retail Store,4925.13,28-08-2024,4,0,,
+ORD10467,PRD5467,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST5912,East India,Retail Store,1024.06,01-01-2024,4,0,,
+ORD10468,PRD5468,Lakme Electronics Product,Electronics,Lakme,CUST7520,North India,Mobile App,288.28,13-03-2024,5,1,Changed mind,27-03-2024
+ORD10469,PRD5469,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST7639,East India,Mobile App,765.21,17-10-2024,5,0,,
+ORD10470,PRD5470,Samsung Footwear Product,Footwear,Samsung,CUST1820,East India,Website,1515.47,04-11-2024,6,0,,
+ORD10471,PRD5471,Boat Beauty Product,Beauty,Boat,CUST8441,South India,Mobile App,3326.82,16-11-2024,7,1,Wrong item sent,29-11-2024
+ORD10472,PRD5472,Lakme Apparel Product,Apparel,Lakme,CUST2686,South India,Website,1190.82,16-11-2024,10,0,,
+ORD10473,PRD5473,Philips Electronics Product,Electronics,Philips,CUST1616,East India,Retail Store,857.05,13-08-2024,3,1,Size mismatch,22-08-2024
+ORD10474,PRD5474,Philips Apparel Product,Apparel,Philips,CUST7938,North India,Mobile App,4394.67,19-09-2024,7,0,,
+ORD10475,PRD5475,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST2434,West India,Retail Store,3082.48,01-01-2024,3,0,,
+ORD10476,PRD5476,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST4694,South India,Retail Store,1041.78,20-02-2024,8,1,Changed mind,07-03-2024
+ORD10477,PRD5477,Lakme Books Product,Books,Lakme,CUST5407,West India,Mobile App,2210.1,28-10-2024,2,0,,
+ORD10478,PRD5478,Lakme Apparel Product,Apparel,Lakme,CUST7917,West India,Website,2690.8,14-12-2024,4,0,,
+ORD10479,PRD5479,Lakme Beauty Product,Beauty,Lakme,CUST7342,South India,Website,998.16,23-03-2024,2,0,,
+ORD10480,PRD5480,Lakme Electronics Product,Electronics,Lakme,CUST2280,East India,Mobile App,597.43,08-12-2024,7,0,,
+ORD10481,PRD5481,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST3206,South India,Retail Store,1377.68,10-03-2024,10,0,,
+ORD10482,PRD5482,Philips Electronics Product,Electronics,Philips,CUST9607,West India,Retail Store,1585.73,19-06-2024,2,0,,
+ORD10483,PRD5483,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST9129,South India,Website,3651.42,11-05-2024,6,0,,
+ORD10484,PRD5484,Philips Apparel Product,Apparel,Philips,CUST1360,North India,Website,2918.74,03-06-2024,8,0,,
+ORD10485,PRD5485,Samsung Electronics Product,Electronics,Samsung,CUST2823,South India,Retail Store,3385.62,11-09-2024,5,1,Wrong item sent,20-09-2024
+ORD10486,PRD5486,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST8689,West India,Mobile App,3716.35,22-06-2024,4,0,,
+ORD10487,PRD5487,Nike Beauty Product,Beauty,Nike,CUST3785,West India,Website,349.68,09-11-2024,6,0,,
+ORD10488,PRD5488,Nike Beauty Product,Beauty,Nike,CUST3883,North India,Mobile App,3056.37,19-07-2024,6,0,,
+ORD10489,PRD5489,Nike Footwear Product,Footwear,Nike,CUST9228,West India,Retail Store,2582.56,06-05-2024,7,0,,
+ORD10490,PRD5490,Samsung Electronics Product,Electronics,Samsung,CUST8557,West India,Website,1804.37,04-03-2024,9,0,,
+ORD10491,PRD5491,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST3136,West India,Mobile App,711.67,08-01-2024,2,0,,
+ORD10492,PRD5492,Philips Footwear Product,Footwear,Philips,CUST2674,South India,Mobile App,3695.31,07-11-2024,2,0,,
+ORD10493,PRD5493,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST4489,North India,Retail Store,3504.33,15-01-2024,8,0,,
+ORD10494,PRD5494,Philips Apparel Product,Apparel,Philips,CUST9529,East India,Mobile App,1382.73,08-10-2024,10,1,Late delivery,23-10-2024
+ORD10495,PRD5495,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST1976,North India,Website,4037.2,19-03-2024,7,0,,
+ORD10496,PRD5496,Boat Apparel Product,Apparel,Boat,CUST9899,North India,Retail Store,1506.3,11-03-2024,2,0,,
+ORD10497,PRD5497,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST5776,North India,Retail Store,1932.67,05-11-2024,3,0,,
+ORD10498,PRD5498,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST2558,South India,Mobile App,4603.11,10-09-2024,4,0,,
+ORD10499,PRD5499,Lakme Electronics Product,Electronics,Lakme,CUST8444,West India,Website,4761.14,03-10-2024,9,0,,
+ORD10500,PRD5500,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST8213,West India,Retail Store,1088.64,25-07-2024,4,0,,
+ORD10501,PRD5501,Boat Electronics Product,Electronics,Boat,CUST5843,South India,Retail Store,4390.14,20-09-2024,7,0,,
+ORD10502,PRD5502,Lakme Beauty Product,Beauty,Lakme,CUST1965,East India,Retail Store,4071.49,28-10-2024,9,0,,
+ORD10503,PRD5503,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST2892,West India,Website,3522.93,04-10-2024,7,1,Defective item,16-10-2024
+ORD10504,PRD5504,Samsung Footwear Product,Footwear,Samsung,CUST6316,North India,Mobile App,1398.41,21-12-2024,8,0,,
+ORD10505,PRD5505,Boat Apparel Product,Apparel,Boat,CUST3254,South India,Website,1261.81,02-11-2024,5,1,Other,09-11-2024
+ORD10506,PRD5506,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST6697,South India,Website,4731.48,25-07-2024,10,0,,
+ORD10507,PRD5507,Nike Beauty Product,Beauty,Nike,CUST3736,South India,Retail Store,3586.76,10-02-2024,7,1,Late delivery,23-02-2024
+ORD10508,PRD5508,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST6049,East India,Mobile App,1066.76,13-04-2024,4,0,,
+ORD10509,PRD5509,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST4989,West India,Website,4594.34,25-01-2024,7,0,,
+ORD10510,PRD5510,Boat Footwear Product,Footwear,Boat,CUST9235,North India,Website,3547.62,02-05-2024,6,0,,
+ORD10511,PRD5511,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST4501,East India,Mobile App,4637.1,05-04-2024,5,1,Defective item,19-04-2024
+ORD10512,PRD5512,Philips Books Product,Books,Philips,CUST1168,South India,Mobile App,4732.48,05-05-2024,6,0,,
+ORD10513,PRD5513,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST2912,West India,Retail Store,4337.8,07-04-2024,3,1,Defective item,11-04-2024
+ORD10514,PRD5514,Boat Electronics Product,Electronics,Boat,CUST1988,North India,Mobile App,1731.68,18-01-2024,9,1,Late delivery,01-02-2024
+ORD10515,PRD5515,AmazonBasics Books Product,Books,AmazonBasics,CUST3819,North India,Retail Store,377.64,15-03-2024,5,0,,
+ORD10516,PRD5516,Philips Books Product,Books,Philips,CUST5223,West India,Retail Store,1304.04,06-04-2024,10,0,,
+ORD10517,PRD5517,Boat Apparel Product,Apparel,Boat,CUST8656,East India,Website,569.38,10-11-2024,8,0,,
+ORD10518,PRD5518,Lakme Apparel Product,Apparel,Lakme,CUST8854,East India,Retail Store,1831.4,25-07-2024,6,0,,
+ORD10519,PRD5519,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST1890,South India,Website,513.71,19-11-2024,5,0,,
+ORD10520,PRD5520,Nike Electronics Product,Electronics,Nike,CUST3506,North India,Mobile App,2789.56,24-09-2024,4,0,,
+ORD10521,PRD5521,Samsung Apparel Product,Apparel,Samsung,CUST4271,West India,Website,1730.01,02-01-2024,7,0,,
+ORD10522,PRD5522,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST5740,South India,Website,4452.69,09-12-2024,2,0,,
+ORD10523,PRD5523,Lakme Footwear Product,Footwear,Lakme,CUST9582,North India,Mobile App,1318.21,10-01-2024,9,0,,
+ORD10524,PRD5524,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST9193,West India,Website,4376.47,09-08-2024,2,0,,
+ORD10525,PRD5525,Philips Electronics Product,Electronics,Philips,CUST9068,North India,Mobile App,4398.57,05-05-2024,9,0,,
+ORD10526,PRD5526,Samsung Electronics Product,Electronics,Samsung,CUST5899,South India,Mobile App,4707.52,26-12-2024,6,0,,
+ORD10527,PRD5527,Boat Beauty Product,Beauty,Boat,CUST5495,North India,Website,4990.08,15-06-2024,8,0,,
+ORD10528,PRD5528,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST1304,West India,Mobile App,3882.5,12-12-2024,8,0,,
+ORD10529,PRD5529,Nike Electronics Product,Electronics,Nike,CUST4160,North India,Retail Store,2503.4,24-02-2024,5,0,,
+ORD10530,PRD5530,Lakme Apparel Product,Apparel,Lakme,CUST4049,North India,Website,4393.65,24-11-2024,4,1,Defective item,30-11-2024
+ORD10531,PRD5531,Boat Apparel Product,Apparel,Boat,CUST7860,South India,Retail Store,3887.71,17-05-2024,6,0,,
+ORD10532,PRD5532,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST2545,South India,Retail Store,2222.51,17-05-2024,2,0,,
+ORD10533,PRD5533,Philips Electronics Product,Electronics,Philips,CUST5094,East India,Website,1346.13,21-03-2024,3,0,,
+ORD10534,PRD5534,Lakme Electronics Product,Electronics,Lakme,CUST8021,South India,Website,1902.19,24-10-2024,6,0,,
+ORD10535,PRD5535,Nike Books Product,Books,Nike,CUST6083,North India,Website,1622.28,28-02-2024,4,0,,
+ORD10536,PRD5536,AmazonBasics Books Product,Books,AmazonBasics,CUST7597,East India,Retail Store,402.05,16-02-2024,4,0,,
+ORD10537,PRD5537,Nike Footwear Product,Footwear,Nike,CUST8412,North India,Retail Store,4941.07,14-04-2024,6,0,,
+ORD10538,PRD5538,Lakme Apparel Product,Apparel,Lakme,CUST6319,North India,Mobile App,2044.77,21-02-2024,3,0,,
+ORD10539,PRD5539,Nike Apparel Product,Apparel,Nike,CUST3765,West India,Retail Store,1247.62,24-12-2024,4,1,Size mismatch,03-01-2025
+ORD10540,PRD5540,Philips Beauty Product,Beauty,Philips,CUST1022,North India,Retail Store,3974.46,17-04-2024,5,0,,
+ORD10541,PRD5541,Nike Beauty Product,Beauty,Nike,CUST5535,West India,Mobile App,2204.39,18-08-2024,5,1,Wrong item sent,01-09-2024
+ORD10542,PRD5542,Nike Footwear Product,Footwear,Nike,CUST3928,West India,Website,4734.71,11-10-2024,5,0,,
+ORD10543,PRD5543,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST2704,East India,Website,3144.37,04-08-2024,8,0,,
+ORD10544,PRD5544,Lakme Beauty Product,Beauty,Lakme,CUST8938,North India,Mobile App,4957.61,28-11-2024,7,0,,
+ORD10545,PRD5545,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST6613,North India,Website,4725.11,26-11-2024,6,0,,
+ORD10546,PRD5546,Boat Electronics Product,Electronics,Boat,CUST5008,North India,Website,3117.14,16-12-2024,5,0,,
+ORD10547,PRD5547,Samsung Beauty Product,Beauty,Samsung,CUST4673,West India,Mobile App,1307.22,16-08-2024,4,0,,
+ORD10548,PRD5548,Boat Apparel Product,Apparel,Boat,CUST5748,East India,Mobile App,1258.33,20-06-2024,6,0,,
+ORD10549,PRD5549,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST3287,North India,Website,3942.01,18-03-2024,4,0,,
+ORD10550,PRD5550,Nike Electronics Product,Electronics,Nike,CUST7325,South India,Website,477.64,04-04-2024,5,1,Wrong item sent,12-04-2024
+ORD10551,PRD5551,Nike Beauty Product,Beauty,Nike,CUST5672,South India,Website,4442.17,02-05-2024,4,1,Other,14-05-2024
+ORD10552,PRD5552,Samsung Electronics Product,Electronics,Samsung,CUST3343,West India,Mobile App,4975.56,12-08-2024,4,0,,
+ORD10553,PRD5553,Lakme Apparel Product,Apparel,Lakme,CUST9576,East India,Retail Store,2101.96,18-02-2024,8,0,,
+ORD10554,PRD5554,Philips Electronics Product,Electronics,Philips,CUST6537,South India,Website,3540.9,23-06-2024,7,0,,
+ORD10555,PRD5555,Boat Books Product,Books,Boat,CUST7814,West India,Website,4116,10-02-2024,10,0,,
+ORD10556,PRD5556,Nike Books Product,Books,Nike,CUST2172,East India,Retail Store,1274.32,08-02-2024,5,0,,
+ORD10557,PRD5557,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST2213,East India,Mobile App,3046.11,09-09-2024,6,0,,
+ORD10558,PRD5558,Lakme Footwear Product,Footwear,Lakme,CUST4324,South India,Mobile App,639.14,10-07-2024,2,1,Defective item,19-07-2024
+ORD10559,PRD5559,Boat Footwear Product,Footwear,Boat,CUST7120,East India,Website,1474.88,11-12-2024,6,0,,
+ORD10560,PRD5560,Philips Books Product,Books,Philips,CUST8452,East India,Website,4465.99,23-10-2024,3,1,Changed mind,28-10-2024
+ORD10561,PRD5561,Samsung Electronics Product,Electronics,Samsung,CUST5816,West India,Website,4338.21,16-12-2024,9,1,Changed mind,29-12-2024
+ORD10562,PRD5562,Nike Electronics Product,Electronics,Nike,CUST6763,North India,Mobile App,3345.16,22-06-2024,2,0,,
+ORD10563,PRD5563,Samsung Beauty Product,Beauty,Samsung,CUST5708,West India,Mobile App,617.54,12-09-2024,2,0,,
+ORD10564,PRD5564,Nike Electronics Product,Electronics,Nike,CUST8678,East India,Retail Store,1988.9,23-02-2024,5,0,,
+ORD10565,PRD5565,Boat Books Product,Books,Boat,CUST8457,South India,Mobile App,3672.42,20-09-2024,5,0,,
+ORD10566,PRD5566,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST7600,East India,Retail Store,589.02,23-04-2024,2,0,,
+ORD10567,PRD5567,Philips Electronics Product,Electronics,Philips,CUST9249,South India,Retail Store,3479.64,23-10-2024,9,0,,
+ORD10568,PRD5568,Philips Electronics Product,Electronics,Philips,CUST7943,North India,Website,4285.79,17-12-2024,5,0,,
+ORD10569,PRD5569,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9563,East India,Mobile App,2506.82,01-08-2024,8,0,,
+ORD10570,PRD5570,Nike Beauty Product,Beauty,Nike,CUST4121,South India,Website,4158.47,09-04-2024,4,0,,
+ORD10571,PRD5571,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST7979,East India,Retail Store,3454.48,04-06-2024,8,0,,
+ORD10572,PRD5572,Boat Footwear Product,Footwear,Boat,CUST3392,West India,Website,1481.74,12-11-2024,3,1,Wrong item sent,20-11-2024
+ORD10573,PRD5573,Philips Footwear Product,Footwear,Philips,CUST3403,West India,Retail Store,4027.64,13-10-2024,9,0,,
+ORD10574,PRD5574,Lakme Apparel Product,Apparel,Lakme,CUST9978,North India,Retail Store,4282.79,26-02-2024,7,1,Other,08-03-2024
+ORD10575,PRD5575,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST7129,East India,Retail Store,3600.14,13-09-2024,10,1,Changed mind,01-10-2024
+ORD10576,PRD5576,AmazonBasics Books Product,Books,AmazonBasics,CUST5033,East India,Retail Store,3547.86,25-10-2024,9,0,,
+ORD10577,PRD5577,Lakme Electronics Product,Electronics,Lakme,CUST1683,West India,Mobile App,3169.33,13-09-2024,3,0,,
+ORD10578,PRD5578,Samsung Electronics Product,Electronics,Samsung,CUST7064,West India,Website,961.3,11-11-2024,4,1,Changed mind,16-11-2024
+ORD10579,PRD5579,Philips Electronics Product,Electronics,Philips,CUST4440,West India,Website,4384.85,17-11-2024,9,0,,
+ORD10580,PRD5580,Boat Beauty Product,Beauty,Boat,CUST5357,East India,Website,4163.92,08-01-2024,7,0,,
+ORD10581,PRD5581,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST5157,West India,Retail Store,1808.57,21-10-2024,4,0,,
+ORD10582,PRD5582,Samsung Electronics Product,Electronics,Samsung,CUST4867,East India,Website,971.65,03-02-2024,2,1,Changed mind,12-02-2024
+ORD10583,PRD5583,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST6045,East India,Website,4194.24,04-12-2024,7,0,,
+ORD10584,PRD5584,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST3775,South India,Retail Store,230.65,27-12-2024,4,0,,
+ORD10585,PRD5585,Samsung Apparel Product,Apparel,Samsung,CUST6649,North India,Mobile App,3161.25,19-08-2024,2,1,Other,31-08-2024
+ORD10586,PRD5586,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST9597,East India,Retail Store,3232.7,22-01-2024,2,0,,
+ORD10587,PRD5587,Philips Beauty Product,Beauty,Philips,CUST3061,West India,Retail Store,3243.23,28-06-2024,7,0,,
+ORD10588,PRD5588,Lakme Books Product,Books,Lakme,CUST7989,East India,Website,3943.26,28-01-2024,9,0,,
+ORD10589,PRD5589,Philips Apparel Product,Apparel,Philips,CUST9779,East India,Retail Store,3852.93,27-02-2024,7,0,,
+ORD10590,PRD5590,Boat Beauty Product,Beauty,Boat,CUST6552,North India,Mobile App,4822.36,02-06-2024,4,0,,
+ORD10591,PRD5591,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST7804,West India,Retail Store,3236.59,19-10-2024,8,1,Size mismatch,30-10-2024
+ORD10592,PRD5592,Boat Electronics Product,Electronics,Boat,CUST8234,East India,Website,692.05,02-05-2024,5,1,Size mismatch,10-05-2024
+ORD10593,PRD5593,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9045,East India,Mobile App,3501.85,15-02-2024,7,0,,
+ORD10594,PRD5594,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST3151,South India,Mobile App,1644.63,22-10-2024,8,0,,
+ORD10595,PRD5595,Nike Beauty Product,Beauty,Nike,CUST8284,West India,Website,523.28,19-06-2024,6,0,,
+ORD10596,PRD5596,Boat Footwear Product,Footwear,Boat,CUST3848,South India,Mobile App,1860.24,13-12-2024,5,0,,
+ORD10597,PRD5597,Lakme Footwear Product,Footwear,Lakme,CUST2144,West India,Retail Store,419.56,02-10-2024,10,1,Late delivery,22-10-2024
+ORD10598,PRD5598,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST3459,South India,Mobile App,4872.75,28-04-2024,6,1,Late delivery,13-05-2024
+ORD10599,PRD5599,Philips Beauty Product,Beauty,Philips,CUST1221,West India,Mobile App,3798.33,09-03-2024,6,0,,
+ORD10600,PRD5600,Nike Beauty Product,Beauty,Nike,CUST1830,North India,Mobile App,3839.66,20-12-2024,10,0,,
+ORD10601,PRD5601,Philips Apparel Product,Apparel,Philips,CUST5788,East India,Website,306.19,03-05-2024,8,0,,
+ORD10602,PRD5602,Samsung Electronics Product,Electronics,Samsung,CUST8308,West India,Mobile App,2545.49,25-03-2024,5,0,,
+ORD10603,PRD5603,Boat Footwear Product,Footwear,Boat,CUST5106,West India,Website,3479.82,08-12-2024,4,0,,
+ORD10604,PRD5604,Samsung Apparel Product,Apparel,Samsung,CUST1591,South India,Website,1513.41,11-04-2024,4,1,Defective item,20-04-2024
+ORD10605,PRD5605,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST4674,East India,Mobile App,2245.67,15-11-2024,3,0,,
+ORD10606,PRD5606,Boat Electronics Product,Electronics,Boat,CUST8731,South India,Website,985.39,05-08-2024,6,0,,
+ORD10607,PRD5607,Boat Books Product,Books,Boat,CUST1425,South India,Retail Store,3529.67,20-01-2024,7,0,,
+ORD10608,PRD5608,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST1447,South India,Retail Store,595.43,12-09-2024,5,0,,
+ORD10609,PRD5609,Nike Apparel Product,Apparel,Nike,CUST5054,North India,Mobile App,3341.65,27-06-2024,5,0,,
+ORD10610,PRD5610,Nike Electronics Product,Electronics,Nike,CUST2371,East India,Retail Store,4764.15,01-04-2024,2,0,,
+ORD10611,PRD5611,Samsung Books Product,Books,Samsung,CUST6088,West India,Website,2275.21,01-03-2024,2,1,Other,06-03-2024
+ORD10612,PRD5612,Nike Beauty Product,Beauty,Nike,CUST1582,East India,Website,2214.69,10-07-2024,9,0,,
+ORD10613,PRD5613,Samsung Beauty Product,Beauty,Samsung,CUST8486,North India,Retail Store,2108.45,22-01-2024,4,0,,
+ORD10614,PRD5614,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST7915,North India,Retail Store,4923.09,10-05-2024,8,0,,
+ORD10615,PRD5615,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST7295,East India,Retail Store,4491.68,07-08-2024,5,0,,
+ORD10616,PRD5616,Samsung Apparel Product,Apparel,Samsung,CUST5094,South India,Retail Store,1222.9,12-02-2024,2,0,,
+ORD10617,PRD5617,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST4448,East India,Retail Store,3328,02-02-2024,6,0,,
+ORD10618,PRD5618,Samsung Footwear Product,Footwear,Samsung,CUST6099,South India,Mobile App,4348.92,19-08-2024,5,0,,
+ORD10619,PRD5619,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST3824,North India,Mobile App,4847.33,10-03-2024,6,0,,
+ORD10620,PRD5620,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST3036,North India,Website,4369.39,03-11-2024,8,0,,
+ORD10621,PRD5621,Samsung Footwear Product,Footwear,Samsung,CUST7149,East India,Website,3900.42,22-01-2024,10,1,Wrong item sent,06-02-2024
+ORD10622,PRD5622,Boat Books Product,Books,Boat,CUST2865,West India,Mobile App,3852.92,08-05-2024,6,0,,
+ORD10623,PRD5623,Philips Footwear Product,Footwear,Philips,CUST9980,North India,Website,829.98,11-06-2024,6,0,,
+ORD10624,PRD5624,Boat Electronics Product,Electronics,Boat,CUST4463,North India,Mobile App,4620.07,05-11-2024,10,0,,
+ORD10625,PRD5625,Samsung Books Product,Books,Samsung,CUST5513,West India,Website,4023.38,18-07-2024,3,0,,
+ORD10626,PRD5626,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST7853,North India,Retail Store,763.08,05-04-2024,2,0,,
+ORD10627,PRD5627,Philips Footwear Product,Footwear,Philips,CUST8389,South India,Retail Store,3490.71,09-11-2024,4,0,,
+ORD10628,PRD5628,Boat Electronics Product,Electronics,Boat,CUST6555,South India,Retail Store,1162.52,05-10-2024,4,0,,
+ORD10629,PRD5629,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST6163,South India,Website,508.2,05-05-2024,4,0,,
+ORD10630,PRD5630,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST6304,West India,Mobile App,1491.17,25-02-2024,2,0,,
+ORD10631,PRD5631,Lakme Electronics Product,Electronics,Lakme,CUST5546,South India,Website,1689.74,18-09-2024,9,0,,
+ORD10632,PRD5632,Nike Footwear Product,Footwear,Nike,CUST7069,South India,Mobile App,255.78,24-07-2024,7,0,,
+ORD10633,PRD5633,Samsung Beauty Product,Beauty,Samsung,CUST3238,South India,Retail Store,2083.97,01-04-2024,2,0,,
+ORD10634,PRD5634,Philips Apparel Product,Apparel,Philips,CUST5906,South India,Retail Store,3080.1,27-11-2024,7,0,,
+ORD10635,PRD5635,Samsung Electronics Product,Electronics,Samsung,CUST9396,South India,Mobile App,3535.91,02-08-2024,2,1,Size mismatch,09-08-2024
+ORD10636,PRD5636,Boat Beauty Product,Beauty,Boat,CUST6652,West India,Retail Store,3943.28,16-04-2024,6,0,,
+ORD10637,PRD5637,AmazonBasics Books Product,Books,AmazonBasics,CUST4609,East India,Mobile App,2506.43,05-05-2024,9,0,,
+ORD10638,PRD5638,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST9608,South India,Website,1361.82,07-11-2024,8,1,Late delivery,17-11-2024
+ORD10639,PRD5639,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST4370,East India,Mobile App,883.98,12-10-2024,4,0,,
+ORD10640,PRD5640,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST7885,East India,Website,3167.15,28-02-2024,5,0,,
+ORD10641,PRD5641,Boat Electronics Product,Electronics,Boat,CUST6694,East India,Website,2886.31,16-03-2024,5,0,,
+ORD10642,PRD5642,Nike Beauty Product,Beauty,Nike,CUST4891,South India,Website,1767.01,09-07-2024,9,0,,
+ORD10643,PRD5643,Nike Footwear Product,Footwear,Nike,CUST8210,West India,Retail Store,621.76,21-09-2024,5,0,,
+ORD10644,PRD5644,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST3124,South India,Website,359.37,09-03-2024,3,0,,
+ORD10645,PRD5645,Nike Beauty Product,Beauty,Nike,CUST4312,West India,Mobile App,2105.23,27-11-2024,7,0,,
+ORD10646,PRD5646,Samsung Books Product,Books,Samsung,CUST2691,North India,Retail Store,2924.2,01-09-2024,9,0,,
+ORD10647,PRD5647,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST6406,East India,Retail Store,4042.82,23-06-2024,9,0,,
+ORD10648,PRD5648,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST1817,East India,Retail Store,1003.92,22-02-2024,4,0,,
+ORD10649,PRD5649,Nike Books Product,Books,Nike,CUST8032,South India,Website,3254.87,25-11-2024,9,0,,
+ORD10650,PRD5650,Boat Beauty Product,Beauty,Boat,CUST2790,South India,Website,351.61,13-12-2024,8,1,Changed mind,28-12-2024
+ORD10651,PRD5651,Philips Beauty Product,Beauty,Philips,CUST4101,East India,Website,449.46,11-01-2024,3,0,,
+ORD10652,PRD5652,Samsung Books Product,Books,Samsung,CUST8159,North India,Mobile App,3603.49,08-12-2024,8,1,Changed mind,22-12-2024
+ORD10653,PRD5653,Lakme Apparel Product,Apparel,Lakme,CUST1484,West India,Mobile App,3627.62,03-04-2024,10,1,Other,23-04-2024
+ORD10654,PRD5654,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST9361,East India,Website,1829.36,13-08-2024,10,1,Late delivery,01-09-2024
+ORD10655,PRD5655,Samsung Apparel Product,Apparel,Samsung,CUST3128,East India,Retail Store,584.55,22-10-2024,4,1,Late delivery,04-11-2024
+ORD10656,PRD5656,Samsung Beauty Product,Beauty,Samsung,CUST1956,West India,Website,2828.44,01-11-2024,2,1,Defective item,07-11-2024
+ORD10657,PRD5657,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST2488,South India,Website,2371.13,06-12-2024,3,0,,
+ORD10658,PRD5658,Lakme Books Product,Books,Lakme,CUST3885,South India,Website,2726.73,20-12-2024,5,0,,
+ORD10659,PRD5659,Samsung Electronics Product,Electronics,Samsung,CUST3439,South India,Retail Store,591.82,02-08-2024,4,0,,
+ORD10660,PRD5660,Boat Footwear Product,Footwear,Boat,CUST2020,South India,Website,1386.1,25-05-2024,8,0,,
+ORD10661,PRD5661,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST5924,West India,Retail Store,4384.56,22-10-2024,8,0,,
+ORD10662,PRD5662,Nike Books Product,Books,Nike,CUST6402,West India,Retail Store,4884.15,15-06-2024,7,0,,
+ORD10663,PRD5663,Philips Footwear Product,Footwear,Philips,CUST8975,North India,Retail Store,1074.17,18-02-2024,2,0,,
+ORD10664,PRD5664,Samsung Footwear Product,Footwear,Samsung,CUST1328,South India,Website,3361.8,22-09-2024,8,0,,
+ORD10665,PRD5665,Boat Footwear Product,Footwear,Boat,CUST2212,North India,Website,2865.75,18-09-2024,5,0,,
+ORD10666,PRD5666,Philips Electronics Product,Electronics,Philips,CUST4288,North India,Mobile App,1296.58,20-06-2024,8,1,Changed mind,02-07-2024
+ORD10667,PRD5667,Boat Footwear Product,Footwear,Boat,CUST2408,North India,Website,4879.01,10-01-2024,9,0,,
+ORD10668,PRD5668,Philips Electronics Product,Electronics,Philips,CUST8662,South India,Retail Store,1157.8,01-04-2024,3,0,,
+ORD10669,PRD5669,Boat Apparel Product,Apparel,Boat,CUST5775,West India,Website,546.55,15-05-2024,3,0,,
+ORD10670,PRD5670,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST4149,North India,Mobile App,1436.88,18-11-2024,6,0,,
+ORD10671,PRD5671,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST8727,West India,Mobile App,4367.71,21-04-2024,7,0,,
+ORD10672,PRD5672,Lakme Electronics Product,Electronics,Lakme,CUST7882,West India,Retail Store,3764.99,27-10-2024,7,0,,
+ORD10673,PRD5673,Nike Footwear Product,Footwear,Nike,CUST8854,South India,Mobile App,1860.49,15-04-2024,5,0,,
+ORD10674,PRD5674,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST8388,East India,Retail Store,4940.72,05-12-2024,8,0,,
+ORD10675,PRD5675,Nike Books Product,Books,Nike,CUST8080,East India,Mobile App,4361.75,26-01-2024,8,0,,
+ORD10676,PRD5676,Boat Books Product,Books,Boat,CUST3231,East India,Website,2305.35,08-02-2024,3,0,,
+ORD10677,PRD5677,Samsung Apparel Product,Apparel,Samsung,CUST4982,West India,Mobile App,2536.01,13-06-2024,7,1,Wrong item sent,26-06-2024
+ORD10678,PRD5678,Nike Beauty Product,Beauty,Nike,CUST9184,North India,Mobile App,4523.37,24-04-2024,4,0,,
+ORD10679,PRD5679,Samsung Footwear Product,Footwear,Samsung,CUST4191,South India,Mobile App,1528.77,14-09-2024,6,0,,
+ORD10680,PRD5680,Boat Electronics Product,Electronics,Boat,CUST9252,East India,Website,4579.34,09-03-2024,4,0,,
+ORD10681,PRD5681,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST3571,West India,Retail Store,3190.24,06-01-2024,10,0,,
+ORD10682,PRD5682,Philips Footwear Product,Footwear,Philips,CUST1682,East India,Retail Store,3718.94,26-02-2024,4,0,,
+ORD10683,PRD5683,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST1394,South India,Mobile App,3635.96,26-03-2024,10,1,Late delivery,14-04-2024
+ORD10684,PRD5684,Philips Beauty Product,Beauty,Philips,CUST4339,West India,Retail Store,1062.48,08-12-2024,3,0,,
+ORD10685,PRD5685,Lakme Beauty Product,Beauty,Lakme,CUST5912,South India,Retail Store,4862.7,15-12-2024,9,0,,
+ORD10686,PRD5686,Nike Beauty Product,Beauty,Nike,CUST2534,South India,Mobile App,4301.05,13-01-2024,9,0,,
+ORD10687,PRD5687,Lakme Electronics Product,Electronics,Lakme,CUST1993,East India,Mobile App,1386.71,27-05-2024,7,1,Late delivery,07-06-2024
+ORD10688,PRD5688,Samsung Beauty Product,Beauty,Samsung,CUST1097,East India,Mobile App,2337.47,19-06-2024,5,0,,
+ORD10689,PRD5689,AmazonBasics Books Product,Books,AmazonBasics,CUST1399,South India,Mobile App,1924.32,21-04-2024,10,0,,
+ORD10690,PRD5690,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST6878,North India,Website,984.91,01-06-2024,2,0,,
+ORD10691,PRD5691,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST8452,North India,Mobile App,4853.18,25-12-2024,9,0,,
+ORD10692,PRD5692,Philips Electronics Product,Electronics,Philips,CUST7628,South India,Mobile App,3352.34,13-09-2024,8,0,,
+ORD10693,PRD5693,Nike Books Product,Books,Nike,CUST1685,West India,Retail Store,3912.67,01-09-2024,4,0,,
+ORD10694,PRD5694,Samsung Beauty Product,Beauty,Samsung,CUST2727,South India,Retail Store,4855.14,13-05-2024,10,0,,
+ORD10695,PRD5695,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST4252,East India,Retail Store,1333.04,09-09-2024,10,0,,
+ORD10696,PRD5696,Nike Electronics Product,Electronics,Nike,CUST8506,West India,Retail Store,1014.84,17-09-2024,3,0,,
+ORD10697,PRD5697,Boat Electronics Product,Electronics,Boat,CUST3508,North India,Mobile App,1817.62,04-04-2024,2,1,Size mismatch,11-04-2024
+ORD10698,PRD5698,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST6298,North India,Retail Store,2268.26,11-01-2024,5,0,,
+ORD10699,PRD5699,Nike Apparel Product,Apparel,Nike,CUST9685,North India,Retail Store,3162.3,13-04-2024,4,0,,
+ORD10700,PRD5700,Philips Beauty Product,Beauty,Philips,CUST5139,East India,Mobile App,1001.8,17-11-2024,2,0,,
+ORD10701,PRD5701,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST6747,South India,Mobile App,376.02,12-04-2024,6,0,,
+ORD10702,PRD5702,Samsung Apparel Product,Apparel,Samsung,CUST9215,West India,Retail Store,3386.26,26-06-2024,9,0,,
+ORD10703,PRD5703,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST3608,West India,Website,4252.02,19-09-2024,5,1,Other,29-09-2024
+ORD10704,PRD5704,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST7397,North India,Mobile App,3009.7,28-03-2024,10,1,Wrong item sent,14-04-2024
+ORD10705,PRD5705,Nike Books Product,Books,Nike,CUST8548,North India,Mobile App,1188.04,11-12-2024,5,0,,
+ORD10706,PRD5706,Boat Beauty Product,Beauty,Boat,CUST1810,West India,Website,1494.8,23-08-2024,5,0,,
+ORD10707,PRD5707,Nike Beauty Product,Beauty,Nike,CUST2563,East India,Retail Store,2749.61,15-09-2024,3,1,Changed mind,23-09-2024
+ORD10708,PRD5708,AmazonBasics Books Product,Books,AmazonBasics,CUST8784,East India,Mobile App,388.85,24-06-2024,10,0,,
+ORD10709,PRD5709,Boat Books Product,Books,Boat,CUST9113,North India,Mobile App,2370.56,04-12-2024,3,1,Late delivery,11-12-2024
+ORD10710,PRD5710,Philips Footwear Product,Footwear,Philips,CUST4927,West India,Website,1717.55,28-11-2024,8,0,,
+ORD10711,PRD5711,Philips Beauty Product,Beauty,Philips,CUST7612,South India,Mobile App,399.55,17-04-2024,9,0,,
+ORD10712,PRD5712,Philips Beauty Product,Beauty,Philips,CUST5459,North India,Mobile App,4935.82,03-08-2024,6,1,Late delivery,11-08-2024
+ORD10713,PRD5713,Boat Beauty Product,Beauty,Boat,CUST6825,West India,Retail Store,223.71,09-05-2024,6,1,Other,21-05-2024
+ORD10714,PRD5714,Philips Apparel Product,Apparel,Philips,CUST4653,South India,Website,3267.78,09-06-2024,6,1,Changed mind,20-06-2024
+ORD10715,PRD5715,Nike Beauty Product,Beauty,Nike,CUST3235,East India,Website,2382.75,06-08-2024,5,0,,
+ORD10716,PRD5716,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST5443,West India,Retail Store,2546.46,08-04-2024,9,0,,
+ORD10717,PRD5717,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST3939,East India,Retail Store,870.33,15-07-2024,7,0,,
+ORD10718,PRD5718,Nike Apparel Product,Apparel,Nike,CUST7125,South India,Mobile App,1678.06,10-12-2024,9,0,,
+ORD10719,PRD5719,Philips Apparel Product,Apparel,Philips,CUST4927,South India,Website,1168.9,18-01-2024,4,0,,
+ORD10720,PRD5720,Lakme Beauty Product,Beauty,Lakme,CUST2374,South India,Mobile App,4855.58,02-05-2024,3,0,,
+ORD10721,PRD5721,Samsung Electronics Product,Electronics,Samsung,CUST4650,North India,Website,3428.49,14-06-2024,6,0,,
+ORD10722,PRD5722,AmazonBasics Books Product,Books,AmazonBasics,CUST9420,East India,Website,4367.08,10-04-2024,8,0,,
+ORD10723,PRD5723,Samsung Apparel Product,Apparel,Samsung,CUST1959,East India,Mobile App,3524.6,15-10-2024,4,1,Size mismatch,28-10-2024
+ORD10724,PRD5724,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST9009,West India,Mobile App,4734.15,28-06-2024,2,0,,
+ORD10725,PRD5725,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST7520,North India,Mobile App,2586.44,10-01-2024,2,0,,
+ORD10726,PRD5726,Lakme Electronics Product,Electronics,Lakme,CUST6878,West India,Mobile App,4370.74,14-01-2024,3,0,,
+ORD10727,PRD5727,AmazonBasics Books Product,Books,AmazonBasics,CUST3681,East India,Website,345.86,10-02-2024,7,1,Wrong item sent,24-02-2024
+ORD10728,PRD5728,Lakme Footwear Product,Footwear,Lakme,CUST7088,West India,Website,3509.73,05-06-2024,8,0,,
+ORD10729,PRD5729,Nike Beauty Product,Beauty,Nike,CUST7660,North India,Retail Store,1235.24,04-11-2024,4,0,,
+ORD10730,PRD5730,Samsung Beauty Product,Beauty,Samsung,CUST8986,South India,Website,2090.55,16-04-2024,3,0,,
+ORD10731,PRD5731,Nike Footwear Product,Footwear,Nike,CUST8445,West India,Website,711.65,21-02-2024,2,0,,
+ORD10732,PRD5732,Samsung Books Product,Books,Samsung,CUST7006,East India,Website,4997.19,15-04-2024,7,0,,
+ORD10733,PRD5733,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST2781,East India,Website,4890.44,17-02-2024,9,0,,
+ORD10734,PRD5734,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST4976,South India,Mobile App,4379.62,14-04-2024,8,0,,
+ORD10735,PRD5735,Samsung Apparel Product,Apparel,Samsung,CUST3309,North India,Website,2921.68,02-11-2024,5,0,,
+ORD10736,PRD5736,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST2008,North India,Website,4416.87,09-06-2024,3,0,,
+ORD10737,PRD5737,AmazonBasics Books Product,Books,AmazonBasics,CUST7932,East India,Retail Store,1769.76,09-05-2024,10,0,,
+ORD10738,PRD5738,Samsung Apparel Product,Apparel,Samsung,CUST4850,West India,Mobile App,4077.66,09-05-2024,8,0,,
+ORD10739,PRD5739,Boat Beauty Product,Beauty,Boat,CUST2654,East India,Website,4029.51,21-05-2024,5,0,,
+ORD10740,PRD5740,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST4485,West India,Retail Store,4125.6,01-05-2024,8,0,,
+ORD10741,PRD5741,Nike Beauty Product,Beauty,Nike,CUST2384,West India,Retail Store,2813.55,19-02-2024,6,0,,
+ORD10742,PRD5742,Philips Beauty Product,Beauty,Philips,CUST5559,East India,Retail Store,1758.01,09-11-2024,3,0,,
+ORD10743,PRD5743,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST5319,South India,Website,2101.63,01-07-2024,2,0,,
+ORD10744,PRD5744,Nike Electronics Product,Electronics,Nike,CUST8370,East India,Website,2065.08,26-09-2024,3,0,,
+ORD10745,PRD5745,Lakme Beauty Product,Beauty,Lakme,CUST8864,East India,Website,1340.21,04-02-2024,9,0,,
+ORD10746,PRD5746,Lakme Electronics Product,Electronics,Lakme,CUST8100,North India,Retail Store,1290.89,11-12-2024,10,0,,
+ORD10747,PRD5747,Nike Apparel Product,Apparel,Nike,CUST7088,West India,Retail Store,3096.55,10-08-2024,2,0,,
+ORD10748,PRD5748,Philips Apparel Product,Apparel,Philips,CUST2243,North India,Website,3173.55,12-08-2024,6,0,,
+ORD10749,PRD5749,Samsung Books Product,Books,Samsung,CUST7575,South India,Mobile App,2022.97,18-12-2024,10,1,Other,05-01-2025
+ORD10750,PRD5750,Samsung Books Product,Books,Samsung,CUST3345,West India,Website,2691.59,17-06-2024,6,0,,
+ORD10751,PRD5751,Boat Electronics Product,Electronics,Boat,CUST8405,North India,Mobile App,323.08,07-09-2024,4,0,,
+ORD10752,PRD5752,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST1236,North India,Website,2024.94,21-06-2024,8,0,,
+ORD10753,PRD5753,Nike Books Product,Books,Nike,CUST2359,North India,Mobile App,2984.83,06-05-2024,6,0,,
+ORD10754,PRD5754,Samsung Books Product,Books,Samsung,CUST4327,South India,Mobile App,3117.94,21-10-2024,7,0,,
+ORD10755,PRD5755,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST1767,North India,Retail Store,4102.33,13-05-2024,7,0,,
+ORD10756,PRD5756,Lakme Beauty Product,Beauty,Lakme,CUST5835,North India,Retail Store,4786.51,22-08-2024,5,0,,
+ORD10757,PRD5757,Lakme Apparel Product,Apparel,Lakme,CUST4633,West India,Mobile App,1139.73,08-03-2024,3,0,,
+ORD10758,PRD5758,Boat Apparel Product,Apparel,Boat,CUST2937,West India,Website,3307.88,10-04-2024,7,1,Late delivery,22-04-2024
+ORD10759,PRD5759,Philips Apparel Product,Apparel,Philips,CUST3173,South India,Retail Store,1368.72,16-09-2024,3,1,Other,25-09-2024
+ORD10760,PRD5760,Boat Beauty Product,Beauty,Boat,CUST5771,North India,Retail Store,489.28,25-05-2024,5,1,Defective item,05-06-2024
+ORD10761,PRD5761,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST1823,East India,Mobile App,1887.79,18-10-2024,5,0,,
+ORD10762,PRD5762,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST2883,West India,Website,2532.18,15-11-2024,2,0,,
+ORD10763,PRD5763,Philips Apparel Product,Apparel,Philips,CUST7216,North India,Retail Store,1567.39,02-03-2024,5,0,,
+ORD10764,PRD5764,Nike Beauty Product,Beauty,Nike,CUST9573,East India,Retail Store,4054.52,19-11-2024,7,0,,
+ORD10765,PRD5765,Boat Beauty Product,Beauty,Boat,CUST7536,East India,Mobile App,1694.28,23-02-2024,2,0,,
+ORD10766,PRD5766,Philips Books Product,Books,Philips,CUST7001,North India,Website,3637.52,19-05-2024,3,0,,
+ORD10767,PRD5767,Philips Footwear Product,Footwear,Philips,CUST3439,West India,Website,2185.04,04-10-2024,6,0,,
+ORD10768,PRD5768,Samsung Apparel Product,Apparel,Samsung,CUST9607,North India,Retail Store,1069.52,20-07-2024,4,0,,
+ORD10769,PRD5769,Samsung Books Product,Books,Samsung,CUST5325,South India,Retail Store,1070.9,18-10-2024,9,0,,
+ORD10770,PRD5770,Boat Electronics Product,Electronics,Boat,CUST9888,West India,Retail Store,3603.42,14-09-2024,3,0,,
+ORD10771,PRD5771,Samsung Beauty Product,Beauty,Samsung,CUST1989,South India,Retail Store,2923.1,11-03-2024,4,0,,
+ORD10772,PRD5772,Nike Books Product,Books,Nike,CUST4109,West India,Retail Store,4822.05,25-12-2024,9,0,,
+ORD10773,PRD5773,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST5026,East India,Website,4068.76,09-01-2024,9,0,,
+ORD10774,PRD5774,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST7423,East India,Website,408.38,12-05-2024,5,0,,
+ORD10775,PRD5775,Nike Electronics Product,Electronics,Nike,CUST1564,South India,Website,4766.74,26-04-2024,10,0,,
+ORD10776,PRD5776,Boat Electronics Product,Electronics,Boat,CUST4890,East India,Website,4132.11,07-10-2024,7,1,Changed mind,17-10-2024
+ORD10777,PRD5777,Philips Beauty Product,Beauty,Philips,CUST3812,West India,Website,1294.78,25-03-2024,10,0,,
+ORD10778,PRD5778,Boat Books Product,Books,Boat,CUST9305,North India,Retail Store,3132.71,09-10-2024,5,0,,
+ORD10779,PRD5779,Lakme Apparel Product,Apparel,Lakme,CUST8590,South India,Mobile App,4231.33,15-09-2024,4,1,Defective item,20-09-2024
+ORD10780,PRD5780,Philips Beauty Product,Beauty,Philips,CUST3806,East India,Mobile App,1896.42,22-06-2024,6,0,,
+ORD10781,PRD5781,Lakme Footwear Product,Footwear,Lakme,CUST2282,East India,Mobile App,3946.52,24-02-2024,9,0,,
+ORD10782,PRD5782,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST1859,North India,Mobile App,4148.55,16-12-2024,9,0,,
+ORD10783,PRD5783,Nike Electronics Product,Electronics,Nike,CUST1939,East India,Website,3404.24,10-09-2024,2,0,,
+ORD10784,PRD5784,Samsung Apparel Product,Apparel,Samsung,CUST4071,East India,Mobile App,3194.52,20-03-2024,7,0,,
+ORD10785,PRD5785,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST9717,East India,Retail Store,3015.72,01-10-2024,3,0,,
+ORD10786,PRD5786,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST3180,South India,Website,3736.99,22-05-2024,9,1,Defective item,01-06-2024
+ORD10787,PRD5787,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST1998,South India,Website,1240.35,24-12-2024,2,0,,
+ORD10788,PRD5788,Boat Electronics Product,Electronics,Boat,CUST7823,East India,Website,313.47,25-11-2024,8,0,,
+ORD10789,PRD5789,Nike Books Product,Books,Nike,CUST2534,South India,Retail Store,3114.05,06-01-2024,5,0,,
+ORD10790,PRD5790,Lakme Footwear Product,Footwear,Lakme,CUST3359,East India,Website,1313.35,28-09-2024,9,0,,
+ORD10791,PRD5791,AmazonBasics Books Product,Books,AmazonBasics,CUST8403,North India,Retail Store,3053.49,06-04-2024,5,0,,
+ORD10792,PRD5792,Boat Books Product,Books,Boat,CUST8232,East India,Website,4941.37,24-03-2024,8,0,,
+ORD10793,PRD5793,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST7734,West India,Mobile App,3536.69,09-11-2024,10,0,,
+ORD10794,PRD5794,Boat Footwear Product,Footwear,Boat,CUST6446,East India,Retail Store,2255.36,23-06-2024,7,0,,
+ORD10795,PRD5795,Samsung Books Product,Books,Samsung,CUST5184,East India,Mobile App,3523.69,15-04-2024,4,1,Changed mind,26-04-2024
+ORD10796,PRD5796,Nike Apparel Product,Apparel,Nike,CUST6035,South India,Retail Store,816.29,13-08-2024,8,0,,
+ORD10797,PRD5797,Boat Footwear Product,Footwear,Boat,CUST2283,West India,Website,3676.83,27-08-2024,10,0,,
+ORD10798,PRD5798,Samsung Books Product,Books,Samsung,CUST3862,North India,Retail Store,1515.97,12-04-2024,5,0,,
+ORD10799,PRD5799,Nike Apparel Product,Apparel,Nike,CUST1931,North India,Mobile App,611.16,22-01-2024,7,1,Late delivery,05-02-2024
+ORD10800,PRD5800,Samsung Apparel Product,Apparel,Samsung,CUST1715,South India,Website,1120.96,14-04-2024,7,0,,
+ORD10801,PRD5801,Philips Electronics Product,Electronics,Philips,CUST7496,South India,Mobile App,1287.95,25-04-2024,9,0,,
+ORD10802,PRD5802,Nike Beauty Product,Beauty,Nike,CUST6748,East India,Retail Store,533.23,28-02-2024,4,0,,
+ORD10803,PRD5803,Boat Books Product,Books,Boat,CUST3266,West India,Mobile App,524.54,24-09-2024,2,1,Late delivery,04-10-2024
+ORD10804,PRD5804,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST2455,West India,Retail Store,1321.82,06-05-2024,3,0,,
+ORD10805,PRD5805,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST3078,South India,Retail Store,4424.38,27-04-2024,2,0,,
+ORD10806,PRD5806,Samsung Footwear Product,Footwear,Samsung,CUST1360,North India,Mobile App,2758.2,17-05-2024,2,0,,
+ORD10807,PRD5807,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST1096,North India,Website,1798.41,22-08-2024,10,0,,
+ORD10808,PRD5808,Boat Footwear Product,Footwear,Boat,CUST2299,West India,Retail Store,4971.87,05-11-2024,8,0,,
+ORD10809,PRD5809,Nike Beauty Product,Beauty,Nike,CUST3950,East India,Retail Store,2877.36,16-12-2024,2,0,,
+ORD10810,PRD5810,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST4430,East India,Website,2432.99,22-02-2024,7,0,,
+ORD10811,PRD5811,Nike Electronics Product,Electronics,Nike,CUST3742,East India,Retail Store,2899.02,11-03-2024,9,1,Other,24-03-2024
+ORD10812,PRD5812,Samsung Electronics Product,Electronics,Samsung,CUST4450,West India,Website,1041.45,03-12-2024,2,0,,
+ORD10813,PRD5813,Boat Electronics Product,Electronics,Boat,CUST1579,East India,Mobile App,1164.48,17-11-2024,10,0,,
+ORD10814,PRD5814,Samsung Apparel Product,Apparel,Samsung,CUST1212,North India,Mobile App,664.05,09-10-2024,10,0,,
+ORD10815,PRD5815,Boat Electronics Product,Electronics,Boat,CUST2934,West India,Mobile App,3829.58,25-07-2024,9,0,,
+ORD10816,PRD5816,Lakme Beauty Product,Beauty,Lakme,CUST2723,North India,Retail Store,3391.58,22-05-2024,6,0,,
+ORD10817,PRD5817,Lakme Apparel Product,Apparel,Lakme,CUST1142,South India,Website,4650.45,22-05-2024,9,0,,
+ORD10818,PRD5818,Boat Beauty Product,Beauty,Boat,CUST4942,West India,Website,2116.72,12-04-2024,10,0,,
+ORD10819,PRD5819,Boat Footwear Product,Footwear,Boat,CUST7148,East India,Website,4963.92,03-07-2024,5,1,Wrong item sent,10-07-2024
+ORD10820,PRD5820,Philips Beauty Product,Beauty,Philips,CUST5923,South India,Retail Store,2791.79,07-06-2024,5,1,Wrong item sent,17-06-2024
+ORD10821,PRD5821,Boat Footwear Product,Footwear,Boat,CUST1556,East India,Retail Store,2700.6,23-11-2024,5,0,,
+ORD10822,PRD5822,Boat Books Product,Books,Boat,CUST7137,North India,Mobile App,627.8,09-11-2024,6,0,,
+ORD10823,PRD5823,Boat Footwear Product,Footwear,Boat,CUST4888,South India,Retail Store,813.02,11-09-2024,3,1,Other,16-09-2024
+ORD10824,PRD5824,Samsung Apparel Product,Apparel,Samsung,CUST2324,West India,Website,3953.73,08-01-2024,3,0,,
+ORD10825,PRD5825,Boat Electronics Product,Electronics,Boat,CUST1735,West India,Retail Store,373.57,18-09-2024,5,0,,
+ORD10826,PRD5826,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST4445,North India,Mobile App,1462.94,02-09-2024,9,0,,
+ORD10827,PRD5827,Nike Beauty Product,Beauty,Nike,CUST9215,West India,Retail Store,620.69,13-05-2024,7,1,Changed mind,25-05-2024
+ORD10828,PRD5828,Philips Beauty Product,Beauty,Philips,CUST8827,West India,Mobile App,2858.25,05-03-2024,8,0,,
+ORD10829,PRD5829,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST5435,North India,Retail Store,2105.51,10-08-2024,5,0,,
+ORD10830,PRD5830,Lakme Apparel Product,Apparel,Lakme,CUST9407,East India,Retail Store,3082.85,13-11-2024,7,0,,
+ORD10831,PRD5831,Philips Beauty Product,Beauty,Philips,CUST3427,North India,Mobile App,4613.08,16-03-2024,8,0,,
+ORD10832,PRD5832,Nike Footwear Product,Footwear,Nike,CUST7162,East India,Website,4962.36,10-10-2024,10,1,Defective item,26-10-2024
+ORD10833,PRD5833,Philips Footwear Product,Footwear,Philips,CUST5916,West India,Mobile App,1200.85,09-07-2024,3,1,Late delivery,15-07-2024
+ORD10834,PRD5834,Samsung Footwear Product,Footwear,Samsung,CUST6216,West India,Retail Store,758.56,12-04-2024,4,1,Defective item,26-04-2024
+ORD10835,PRD5835,Philips Electronics Product,Electronics,Philips,CUST6578,South India,Retail Store,2026.99,21-02-2024,3,1,Changed mind,01-03-2024
+ORD10836,PRD5836,Boat Electronics Product,Electronics,Boat,CUST5861,North India,Mobile App,4366.67,28-06-2024,10,1,Late delivery,09-07-2024
+ORD10837,PRD5837,Samsung Apparel Product,Apparel,Samsung,CUST6354,North India,Retail Store,3992.15,21-03-2024,5,0,,
+ORD10838,PRD5838,Samsung Apparel Product,Apparel,Samsung,CUST8631,South India,Mobile App,588.41,26-02-2024,10,0,,
+ORD10839,PRD5839,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST1271,North India,Retail Store,1032.92,15-05-2024,9,0,,
+ORD10840,PRD5840,Boat Books Product,Books,Boat,CUST9505,West India,Website,1861.28,14-06-2024,3,1,Late delivery,19-06-2024
+ORD10841,PRD5841,Samsung Apparel Product,Apparel,Samsung,CUST2582,South India,Website,3276.67,28-11-2024,4,1,Late delivery,09-12-2024
+ORD10842,PRD5842,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST3174,South India,Website,836.12,25-02-2024,8,1,Wrong item sent,12-03-2024
+ORD10843,PRD5843,Boat Footwear Product,Footwear,Boat,CUST3056,West India,Retail Store,4629.23,11-02-2024,7,0,,
+ORD10844,PRD5844,Lakme Electronics Product,Electronics,Lakme,CUST3874,North India,Retail Store,3110.01,18-01-2024,4,0,,
+ORD10845,PRD5845,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST7451,North India,Mobile App,1039.23,04-03-2024,8,0,,
+ORD10846,PRD5846,Boat Apparel Product,Apparel,Boat,CUST1378,North India,Mobile App,2113.58,03-06-2024,9,0,,
+ORD10847,PRD5847,Nike Electronics Product,Electronics,Nike,CUST2415,East India,Website,1964.17,08-06-2024,7,0,,
+ORD10848,PRD5848,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST3018,North India,Website,323.9,12-05-2024,9,0,,
+ORD10849,PRD5849,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST7393,South India,Mobile App,4822.95,08-02-2024,9,0,,
+ORD10850,PRD5850,Lakme Apparel Product,Apparel,Lakme,CUST5537,East India,Retail Store,4835.95,17-05-2024,4,0,,
+ORD10851,PRD5851,Boat Footwear Product,Footwear,Boat,CUST3923,East India,Website,1696.72,19-05-2024,7,0,,
+ORD10852,PRD5852,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST8711,East India,Mobile App,2309.66,22-08-2024,2,0,,
+ORD10853,PRD5853,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9595,North India,Retail Store,3275.97,02-03-2024,5,0,,
+ORD10854,PRD5854,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST7847,South India,Mobile App,3174.02,07-05-2024,6,0,,
+ORD10855,PRD5855,Lakme Beauty Product,Beauty,Lakme,CUST1875,North India,Retail Store,929.72,26-04-2024,10,0,,
+ORD10856,PRD5856,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST7297,South India,Website,3947.66,12-04-2024,10,0,,
+ORD10857,PRD5857,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST3298,East India,Website,479.19,09-11-2024,8,1,Late delivery,24-11-2024
+ORD10858,PRD5858,Lakme Books Product,Books,Lakme,CUST7517,West India,Retail Store,477.35,26-05-2024,4,0,,
+ORD10859,PRD5859,Lakme Apparel Product,Apparel,Lakme,CUST1567,South India,Retail Store,4921.66,14-02-2024,8,0,,
+ORD10860,PRD5860,Lakme Books Product,Books,Lakme,CUST1133,South India,Website,882.8,26-04-2024,4,0,,
+ORD10861,PRD5861,Philips Apparel Product,Apparel,Philips,CUST5093,East India,Retail Store,1655.72,28-05-2024,5,0,,
+ORD10862,PRD5862,Nike Footwear Product,Footwear,Nike,CUST7112,West India,Website,3522.37,02-12-2024,2,0,,
+ORD10863,PRD5863,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST6869,East India,Mobile App,2645.23,10-02-2024,5,1,Size mismatch,22-02-2024
+ORD10864,PRD5864,Boat Books Product,Books,Boat,CUST6549,North India,Retail Store,4107.06,05-02-2024,6,0,,
+ORD10865,PRD5865,AmazonBasics Books Product,Books,AmazonBasics,CUST2734,West India,Retail Store,1670.02,18-04-2024,3,0,,
+ORD10866,PRD5866,Samsung Books Product,Books,Samsung,CUST6106,East India,Website,2729.8,15-07-2024,10,0,,
+ORD10867,PRD5867,Samsung Books Product,Books,Samsung,CUST9895,East India,Retail Store,827.41,27-12-2024,9,1,Defective item,11-01-2025
+ORD10868,PRD5868,Lakme Beauty Product,Beauty,Lakme,CUST8475,North India,Mobile App,2358.97,01-06-2024,4,0,,
+ORD10869,PRD5869,Philips Books Product,Books,Philips,CUST3344,North India,Mobile App,1965.24,07-02-2024,7,0,,
+ORD10870,PRD5870,Lakme Footwear Product,Footwear,Lakme,CUST4191,West India,Website,4172.18,24-02-2024,9,0,,
+ORD10871,PRD5871,Lakme Beauty Product,Beauty,Lakme,CUST3440,South India,Website,3892.66,09-06-2024,8,0,,
+ORD10872,PRD5872,Samsung Apparel Product,Apparel,Samsung,CUST4426,West India,Website,2197.54,20-11-2024,4,0,,
+ORD10873,PRD5873,Philips Electronics Product,Electronics,Philips,CUST1738,East India,Mobile App,292.12,05-09-2024,7,0,,
+ORD10874,PRD5874,Philips Electronics Product,Electronics,Philips,CUST7946,West India,Retail Store,3849.39,10-12-2024,7,0,,
+ORD10875,PRD5875,Nike Electronics Product,Electronics,Nike,CUST3407,East India,Retail Store,2769.49,23-07-2024,7,0,,
+ORD10876,PRD5876,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST7754,South India,Mobile App,258.18,18-02-2024,8,0,,
+ORD10877,PRD5877,Samsung Electronics Product,Electronics,Samsung,CUST6312,North India,Website,4884.19,11-09-2024,10,1,Changed mind,01-10-2024
+ORD10878,PRD5878,Lakme Electronics Product,Electronics,Lakme,CUST4905,East India,Website,4805.97,23-11-2024,7,0,,
+ORD10879,PRD5879,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST6681,East India,Retail Store,726.73,28-07-2024,6,0,,
+ORD10880,PRD5880,Boat Footwear Product,Footwear,Boat,CUST4146,South India,Retail Store,2381.01,14-01-2024,5,1,Size mismatch,27-01-2024
+ORD10881,PRD5881,Lakme Apparel Product,Apparel,Lakme,CUST2452,East India,Mobile App,670.8,06-10-2024,4,0,,
+ORD10882,PRD5882,Samsung Electronics Product,Electronics,Samsung,CUST2229,North India,Retail Store,920.23,20-09-2024,7,0,,
+ORD10883,PRD5883,Samsung Beauty Product,Beauty,Samsung,CUST7842,North India,Mobile App,3739.31,12-09-2024,8,0,,
+ORD10884,PRD5884,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST2478,West India,Website,2004.26,17-08-2024,2,0,,
+ORD10885,PRD5885,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST6905,North India,Website,2405.34,04-12-2024,8,0,,
+ORD10886,PRD5886,Philips Electronics Product,Electronics,Philips,CUST2054,West India,Retail Store,4482.01,12-04-2024,9,1,Wrong item sent,29-04-2024
+ORD10887,PRD5887,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST5735,South India,Website,3977.14,22-04-2024,5,0,,
+ORD10888,PRD5888,Nike Electronics Product,Electronics,Nike,CUST4326,North India,Retail Store,3503.05,23-05-2024,8,0,,
+ORD10889,PRD5889,Lakme Beauty Product,Beauty,Lakme,CUST8665,East India,Mobile App,1422.42,07-09-2024,6,1,Other,23-09-2024
+ORD10890,PRD5890,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST2526,East India,Mobile App,384.45,21-03-2024,8,1,Changed mind,30-03-2024
+ORD10891,PRD5891,Philips Electronics Product,Electronics,Philips,CUST8081,West India,Mobile App,2415.09,05-05-2024,6,0,,
+ORD10892,PRD5892,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST1643,South India,Retail Store,3364.9,22-01-2024,5,1,Other,01-02-2024
+ORD10893,PRD5893,Philips Electronics Product,Electronics,Philips,CUST9658,West India,Website,3256.01,02-08-2024,2,0,,
+ORD10894,PRD5894,Philips Footwear Product,Footwear,Philips,CUST7116,East India,Retail Store,519.93,13-08-2024,4,0,,
+ORD10895,PRD5895,Nike Beauty Product,Beauty,Nike,CUST1315,North India,Retail Store,920.81,10-04-2024,10,0,,
+ORD10896,PRD5896,Nike Books Product,Books,Nike,CUST6082,West India,Mobile App,2658.67,04-05-2024,5,0,,
+ORD10897,PRD5897,Philips Beauty Product,Beauty,Philips,CUST1129,North India,Mobile App,400.03,17-08-2024,2,0,,
+ORD10898,PRD5898,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST3968,North India,Retail Store,3638.35,27-11-2024,3,0,,
+ORD10899,PRD5899,Samsung Footwear Product,Footwear,Samsung,CUST2946,West India,Mobile App,542.03,11-10-2024,3,0,,
+ORD10900,PRD5900,Samsung Apparel Product,Apparel,Samsung,CUST2617,South India,Retail Store,4791.21,04-07-2024,2,0,,
+ORD10901,PRD5901,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST6531,East India,Retail Store,1895.61,12-12-2024,7,0,,
+ORD10902,PRD5902,Lakme Footwear Product,Footwear,Lakme,CUST9772,East India,Website,1878.58,03-04-2024,8,0,,
+ORD10903,PRD5903,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST8196,East India,Mobile App,3374.58,27-01-2024,2,0,,
+ORD10904,PRD5904,Philips Home & Kitchen Product,Home & Kitchen,Philips,CUST5341,South India,Retail Store,1035.72,08-11-2024,8,0,,
+ORD10905,PRD5905,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST6165,North India,Mobile App,3369.45,01-09-2024,7,0,,
+ORD10906,PRD5906,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST9606,East India,Retail Store,1472.22,17-08-2024,2,0,,
+ORD10907,PRD5907,Philips Books Product,Books,Philips,CUST7317,South India,Website,594.42,24-05-2024,4,1,Late delivery,29-05-2024
+ORD10908,PRD5908,Nike Beauty Product,Beauty,Nike,CUST1614,West India,Mobile App,1618.13,28-06-2024,10,0,,
+ORD10909,PRD5909,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST1183,East India,Retail Store,3198.39,11-01-2024,7,0,,
+ORD10910,PRD5910,Nike Footwear Product,Footwear,Nike,CUST8487,West India,Mobile App,1187.3,22-05-2024,2,0,,
+ORD10911,PRD5911,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST6462,North India,Retail Store,3152.06,05-04-2024,7,0,,
+ORD10912,PRD5912,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST4066,West India,Mobile App,3290.74,16-11-2024,3,0,,
+ORD10913,PRD5913,Nike Books Product,Books,Nike,CUST1008,East India,Mobile App,401.37,04-09-2024,8,1,Changed mind,22-09-2024
+ORD10914,PRD5914,Philips Apparel Product,Apparel,Philips,CUST5003,North India,Retail Store,4033.83,21-06-2024,7,0,,
+ORD10915,PRD5915,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST9251,North India,Retail Store,4903.86,18-08-2024,6,0,,
+ORD10916,PRD5916,Boat Books Product,Books,Boat,CUST5779,North India,Retail Store,2995.63,09-03-2024,7,0,,
+ORD10917,PRD5917,Boat Footwear Product,Footwear,Boat,CUST2581,West India,Retail Store,4096.49,17-05-2024,9,0,,
+ORD10918,PRD5918,Lakme Apparel Product,Apparel,Lakme,CUST2445,East India,Website,814.86,22-06-2024,10,0,,
+ORD10919,PRD5919,Nike Books Product,Books,Nike,CUST4232,East India,Retail Store,4654.8,28-05-2024,10,0,,
+ORD10920,PRD5920,Philips Beauty Product,Beauty,Philips,CUST9934,West India,Retail Store,1986.4,04-08-2024,6,0,,
+ORD10921,PRD5921,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST8564,South India,Website,2309.14,18-09-2024,10,0,,
+ORD10922,PRD5922,Nike Books Product,Books,Nike,CUST1326,East India,Website,4726.76,10-11-2024,6,0,,
+ORD10923,PRD5923,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST9653,West India,Mobile App,783.21,25-01-2024,4,0,,
+ORD10924,PRD5924,Philips Books Product,Books,Philips,CUST9491,West India,Website,4457.24,04-06-2024,5,0,,
+ORD10925,PRD5925,Samsung Footwear Product,Footwear,Samsung,CUST7492,South India,Website,1572.35,20-12-2024,9,1,Other,07-01-2025
+ORD10926,PRD5926,Nike Electronics Product,Electronics,Nike,CUST9431,East India,Website,4334.58,08-04-2024,7,1,Changed mind,16-04-2024
+ORD10927,PRD5927,Philips Books Product,Books,Philips,CUST8784,East India,Mobile App,4610.85,03-11-2024,10,0,,
+ORD10928,PRD5928,Lakme Electronics Product,Electronics,Lakme,CUST6331,East India,Retail Store,3824.2,16-04-2024,5,0,,
+ORD10929,PRD5929,Philips Books Product,Books,Philips,CUST5929,West India,Mobile App,4241.59,07-12-2024,7,0,,
+ORD10930,PRD5930,Philips Footwear Product,Footwear,Philips,CUST3329,West India,Retail Store,3926.95,12-04-2024,10,0,,
+ORD10931,PRD5931,Samsung Books Product,Books,Samsung,CUST5689,North India,Retail Store,1051.66,01-04-2024,6,0,,
+ORD10932,PRD5932,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST2858,South India,Website,4926.41,22-11-2024,8,1,Late delivery,06-12-2024
+ORD10933,PRD5933,Samsung Books Product,Books,Samsung,CUST3725,South India,Website,407.23,08-12-2024,8,0,,
+ORD10934,PRD5934,Boat Footwear Product,Footwear,Boat,CUST7461,South India,Website,832.3,08-03-2024,6,0,,
+ORD10935,PRD5935,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST8227,West India,Retail Store,4125.37,02-03-2024,2,0,,
+ORD10936,PRD5936,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST5774,East India,Mobile App,2628.09,10-01-2024,5,1,Changed mind,24-01-2024
+ORD10937,PRD5937,Philips Apparel Product,Apparel,Philips,CUST9287,West India,Website,3717.45,12-08-2024,9,0,,
+ORD10938,PRD5938,Lakme Beauty Product,Beauty,Lakme,CUST7954,North India,Mobile App,3033.67,27-02-2024,6,0,,
+ORD10939,PRD5939,Nike Footwear Product,Footwear,Nike,CUST8455,North India,Website,1628.23,24-02-2024,9,0,,
+ORD10940,PRD5940,Lakme Electronics Product,Electronics,Lakme,CUST9077,East India,Retail Store,3506.65,11-10-2024,5,1,Defective item,20-10-2024
+ORD10941,PRD5941,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST2838,South India,Retail Store,3254.2,19-08-2024,2,0,,
+ORD10942,PRD5942,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST3151,North India,Retail Store,968.34,06-02-2024,5,0,,
+ORD10943,PRD5943,Samsung Books Product,Books,Samsung,CUST6896,East India,Mobile App,244.79,16-08-2024,3,0,,
+ORD10944,PRD5944,Boat Apparel Product,Apparel,Boat,CUST9134,South India,Website,3687.02,18-07-2024,7,1,Changed mind,04-08-2024
+ORD10945,PRD5945,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST5021,East India,Website,676.05,04-01-2024,3,0,,
+ORD10946,PRD5946,Nike Beauty Product,Beauty,Nike,CUST2739,East India,Mobile App,4040.34,26-05-2024,8,0,,
+ORD10947,PRD5947,AmazonBasics Apparel Product,Apparel,AmazonBasics,CUST4642,East India,Mobile App,2864.41,24-09-2024,2,0,,
+ORD10948,PRD5948,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9794,West India,Retail Store,3156.73,20-01-2024,2,0,,
+ORD10949,PRD5949,Lakme Apparel Product,Apparel,Lakme,CUST7092,East India,Mobile App,1905.85,11-02-2024,5,0,,
+ORD10950,PRD5950,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST8998,South India,Mobile App,2860.29,28-02-2024,3,0,,
+ORD10951,PRD5951,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST6400,East India,Mobile App,3852.76,24-06-2024,3,0,,
+ORD10952,PRD5952,Boat Books Product,Books,Boat,CUST7309,West India,Retail Store,3779.52,09-09-2024,4,0,,
+ORD10953,PRD5953,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST2407,West India,Mobile App,4798.75,18-06-2024,8,0,,
+ORD10954,PRD5954,Samsung Electronics Product,Electronics,Samsung,CUST8884,North India,Website,1769.27,07-06-2024,6,0,,
+ORD10955,PRD5955,Lakme Beauty Product,Beauty,Lakme,CUST4738,South India,Website,1666.9,03-08-2024,7,1,Wrong item sent,14-08-2024
+ORD10956,PRD5956,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST9528,North India,Retail Store,4982.4,28-10-2024,9,0,,
+ORD10957,PRD5957,Samsung Apparel Product,Apparel,Samsung,CUST1919,East India,Retail Store,2353.33,20-04-2024,10,0,,
+ORD10958,PRD5958,AmazonBasics Books Product,Books,AmazonBasics,CUST9592,East India,Website,4453.74,03-02-2024,2,0,,
+ORD10959,PRD5959,Boat Books Product,Books,Boat,CUST7474,East India,Mobile App,2079.32,28-05-2024,9,0,,
+ORD10960,PRD5960,Lakme Apparel Product,Apparel,Lakme,CUST7122,East India,Retail Store,3538.97,12-02-2024,3,0,,
+ORD10961,PRD5961,Boat Footwear Product,Footwear,Boat,CUST7076,West India,Retail Store,3174.03,02-08-2024,4,0,,
+ORD10962,PRD5962,Philips Books Product,Books,Philips,CUST4180,North India,Website,4012.15,26-08-2024,3,0,,
+ORD10963,PRD5963,Samsung Footwear Product,Footwear,Samsung,CUST2271,East India,Mobile App,3023.37,09-01-2024,7,0,,
+ORD10964,PRD5964,Samsung Apparel Product,Apparel,Samsung,CUST7532,South India,Retail Store,3283.16,07-11-2024,2,0,,
+ORD10965,PRD5965,Boat Apparel Product,Apparel,Boat,CUST8747,West India,Website,2983.92,24-07-2024,4,0,,
+ORD10966,PRD5966,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST7479,East India,Mobile App,2891.17,22-02-2024,4,0,,
+ORD10967,PRD5967,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST2259,West India,Website,3447.05,08-11-2024,10,1,Changed mind,22-11-2024
+ORD10968,PRD5968,Nike Electronics Product,Electronics,Nike,CUST9550,East India,Retail Store,1495.14,15-11-2024,10,1,Size mismatch,03-12-2024
+ORD10969,PRD5969,Samsung Apparel Product,Apparel,Samsung,CUST3575,South India,Website,2591.63,16-12-2024,6,0,,
+ORD10970,PRD5970,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST9867,North India,Website,481.04,12-02-2024,7,0,,
+ORD10971,PRD5971,Samsung Footwear Product,Footwear,Samsung,CUST4799,East India,Website,3967.51,16-05-2024,10,0,,
+ORD10972,PRD5972,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST8505,South India,Website,3985.35,12-07-2024,9,0,,
+ORD10973,PRD5973,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST5741,North India,Retail Store,2312.96,12-04-2024,8,0,,
+ORD10974,PRD5974,Boat Beauty Product,Beauty,Boat,CUST6357,South India,Retail Store,1775.33,21-11-2024,10,0,,
+ORD10975,PRD5975,Samsung Electronics Product,Electronics,Samsung,CUST9802,West India,Mobile App,625.28,20-06-2024,4,0,,
+ORD10976,PRD5976,Nike Apparel Product,Apparel,Nike,CUST8987,West India,Retail Store,3071.48,01-09-2024,9,0,,
+ORD10977,PRD5977,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST8624,East India,Retail Store,4992.07,18-08-2024,6,1,Changed mind,03-09-2024
+ORD10978,PRD5978,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST8574,East India,Retail Store,3284.31,15-07-2024,4,0,,
+ORD10979,PRD5979,Boat Home & Kitchen Product,Home & Kitchen,Boat,CUST1054,West India,Mobile App,3253.65,16-08-2024,2,0,,
+ORD10980,PRD5980,Philips Apparel Product,Apparel,Philips,CUST9896,East India,Website,768.01,14-04-2024,5,0,,
+ORD10981,PRD5981,Lakme Books Product,Books,Lakme,CUST9539,East India,Mobile App,4231.05,01-11-2024,9,0,,
+ORD10982,PRD5982,Lakme Books Product,Books,Lakme,CUST1389,North India,Website,2944.99,13-06-2024,8,0,,
+ORD10983,PRD5983,Samsung Beauty Product,Beauty,Samsung,CUST3393,East India,Mobile App,1085.49,11-02-2024,7,0,,
+ORD10984,PRD5984,Philips Footwear Product,Footwear,Philips,CUST9669,East India,Retail Store,1805.65,27-04-2024,6,0,,
+ORD10985,PRD5985,Samsung Footwear Product,Footwear,Samsung,CUST8145,West India,Website,316.12,16-09-2024,8,1,Wrong item sent,30-09-2024
+ORD10986,PRD5986,Nike Home & Kitchen Product,Home & Kitchen,Nike,CUST4708,North India,Mobile App,1510.74,14-05-2024,4,0,,
+ORD10987,PRD5987,Samsung Beauty Product,Beauty,Samsung,CUST4619,South India,Website,1633.88,16-10-2024,8,1,Wrong item sent,30-10-2024
+ORD10988,PRD5988,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST9437,East India,Retail Store,1444.62,04-07-2024,3,0,,
+ORD10989,PRD5989,Lakme Home & Kitchen Product,Home & Kitchen,Lakme,CUST7852,South India,Mobile App,4389.11,09-11-2024,4,1,Wrong item sent,15-11-2024
+ORD10990,PRD5990,Nike Apparel Product,Apparel,Nike,CUST3730,North India,Website,1093.29,18-08-2024,9,1,Defective item,03-09-2024
+ORD10991,PRD5991,Samsung Footwear Product,Footwear,Samsung,CUST2772,South India,Website,2399.3,16-03-2024,3,0,,
+ORD10992,PRD5992,AmazonBasics Home & Kitchen Product,Home & Kitchen,AmazonBasics,CUST3807,East India,Mobile App,840.7,04-08-2024,4,0,,
+ORD10993,PRD5993,Nike Apparel Product,Apparel,Nike,CUST2682,West India,Retail Store,3694.11,14-06-2024,3,0,,
+ORD10994,PRD5994,AmazonBasics Beauty Product,Beauty,AmazonBasics,CUST1419,South India,Mobile App,2296.88,08-09-2024,7,0,,
+ORD10995,PRD5995,AmazonBasics Footwear Product,Footwear,AmazonBasics,CUST2700,North India,Mobile App,3874.46,20-07-2024,9,0,,
+ORD10996,PRD5996,Boat Apparel Product,Apparel,Boat,CUST4036,South India,Mobile App,3129.08,20-06-2024,4,0,,
+ORD10997,PRD5997,Boat Apparel Product,Apparel,Boat,CUST5322,North India,Website,3806.6,25-09-2024,6,0,,
+ORD10998,PRD5998,Philips Beauty Product,Beauty,Philips,CUST9813,South India,Website,4791.75,13-05-2024,3,0,,
+ORD10999,PRD5999,Philips Apparel Product,Apparel,Philips,CUST4601,West India,Website,473.86,03-10-2024,10,0,,

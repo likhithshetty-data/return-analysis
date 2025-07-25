@@ -1,0 +1,94 @@
+order_id,product_id,product_name,category,supplier,customer_id,region,channel,price,order_date,delivery_days,is_returned,return_reason,return_date,return_probability,high_risk
+ORD10000,PRD5000,Samsung Electronics Product,Electronics,Samsung,CUST5453,North India,Website,1997.79,2024-10-17,6,1,Late delivery,2024-10-30,0.37647202455255013,True
+ORD10003,PRD5003,Samsung Electronics Product,Electronics,Samsung,CUST7387,East India,Website,478.8,2024-12-09,10,1,Wrong item sent,2024-12-23,0.4647329988845833,True
+ORD10005,PRD5005,Lakme Electronics Product,Electronics,Lakme,CUST7236,North India,Retail Store,298.81,2024-08-19,4,1,Changed mind,2024-08-29,0.305144280314382,True
+ORD10008,PRD5008,Boat Electronics Product,Electronics,Boat,CUST8076,South India,Website,1660.36,2024-08-26,3,0,,,0.32040967385248803,True
+ORD10013,PRD5013,Samsung Beauty Product,Beauty,Samsung,CUST3259,West India,Website,1158.43,2024-03-19,8,0,,,0.3191506634618508,True
+ORD10020,PRD5020,Nike Electronics Product,Electronics,Nike,CUST1000,East India,Website,785.78,2024-09-04,5,0,,,0.3432708783617715,True
+ORD10023,PRD5023,Nike Beauty Product,Beauty,Nike,CUST7756,South India,Mobile App,1696.21,2024-09-06,9,0,,,0.3096520971655562,True
+ORD10049,PRD5049,Boat Electronics Product,Electronics,Boat,CUST6784,North India,Mobile App,322.01,2024-03-23,6,0,,,0.3249410830618221,True
+ORD10050,PRD5050,Lakme Books Product,Books,Lakme,CUST9145,South India,Mobile App,350.86,2024-01-28,10,0,,,0.3119051224083934,True
+ORD10055,PRD5055,Samsung Electronics Product,Electronics,Samsung,CUST5005,West India,Website,1590.81,2024-11-25,8,0,,,0.39684321948297996,True
+ORD10071,PRD5071,Samsung Books Product,Books,Samsung,CUST7059,South India,Website,2586.79,2024-09-13,10,0,,,0.33561367981089263,True
+ORD10086,PRD5086,Samsung Electronics Product,Electronics,Samsung,CUST6052,North India,Mobile App,2658.05,2024-07-24,6,0,,,0.3275479440829642,True
+ORD10112,PRD5112,Samsung Footwear Product,Footwear,Samsung,CUST6623,South India,Mobile App,1472.97,2024-09-21,10,0,,,0.30157575648089857,True
+ORD10147,PRD5147,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST3980,East India,Website,809.89,2024-11-01,10,0,,,0.3422120783107483,True
+ORD10159,PRD5159,Lakme Beauty Product,Beauty,Lakme,CUST3280,South India,Retail Store,950.9,2024-07-27,9,0,,,0.3153058992749599,True
+ORD10172,PRD5172,Nike Electronics Product,Electronics,Nike,CUST3517,South India,Website,2112.82,2024-04-11,9,0,,,0.4238788316941522,True
+ORD10173,PRD5173,Lakme Electronics Product,Electronics,Lakme,CUST8599,East India,Retail Store,3248.45,2024-09-11,9,0,,,0.30984573173696467,True
+ORD10186,PRD5186,Nike Electronics Product,Electronics,Nike,CUST2895,South India,Mobile App,653.33,2024-10-16,9,0,,,0.4187634143937919,True
+ORD10200,PRD5200,Samsung Apparel Product,Apparel,Samsung,CUST1437,South India,Retail Store,694.99,2024-04-26,9,1,Changed mind,2024-05-09,0.32958101910384546,True
+ORD10205,PRD5205,Lakme Electronics Product,Electronics,Lakme,CUST2546,East India,Mobile App,1732.71,2024-05-02,6,1,Size mismatch,2024-05-17,0.3019862534856598,True
+ORD10218,PRD5218,Samsung Electronics Product,Electronics,Samsung,CUST7625,East India,Website,549.26,2024-01-23,3,1,Size mismatch,2024-01-30,0.3500342769772945,True
+ORD10226,PRD5226,Nike Electronics Product,Electronics,Nike,CUST5217,South India,Retail Store,2236.27,2024-11-08,10,1,Late delivery,2024-11-26,0.39374655061630515,True
+ORD10227,PRD5227,Lakme Beauty Product,Beauty,Lakme,CUST7815,South India,Retail Store,733.75,2024-03-23,10,0,,,0.3344173885015093,True
+ORD10233,PRD5233,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST3224,South India,Mobile App,1571.42,2024-02-27,9,1,Defective item,2024-03-13,0.32064649438900117,True
+ORD10247,PRD5247,Samsung Footwear Product,Footwear,Samsung,CUST1656,South India,Website,2425.75,2024-01-11,10,0,,,0.3159372561799277,True
+ORD10255,PRD5255,Nike Electronics Product,Electronics,Nike,CUST8469,West India,Website,3144.39,2024-02-05,8,0,,,0.33103587470681944,True
+ORD10258,PRD5258,Boat Electronics Product,Electronics,Boat,CUST8939,North India,Retail Store,2007.02,2024-08-24,10,1,Late delivery,2024-09-12,0.34472549192364577,True
+ORD10260,PRD5260,Lakme Electronics Product,Electronics,Lakme,CUST7750,East India,Retail Store,3051.83,2024-12-17,10,0,,,0.3283711754121193,True
+ORD10293,PRD5293,Samsung Beauty Product,Beauty,Samsung,CUST6097,East India,Website,564.14,2024-08-25,7,0,,,0.32528506364412935,True
+ORD10313,PRD5313,Samsung Apparel Product,Apparel,Samsung,CUST4178,South India,Website,2420.17,2024-05-26,9,0,,,0.33469274889599254,True
+ORD10314,PRD5314,Philips Electronics Product,Electronics,Philips,CUST5982,East India,Website,376.08,2024-02-19,9,0,,,0.31396474623861614,True
+ORD10320,PRD5320,Philips Electronics Product,Electronics,Philips,CUST9249,East India,Website,296.34,2024-09-04,10,0,,,0.3302503752801946,True
+ORD10322,PRD5322,Nike Electronics Product,Electronics,Nike,CUST2757,East India,Website,774.86,2024-10-02,6,1,Wrong item sent,2024-10-09,0.3588297172467549,True
+ORD10336,PRD5336,Lakme Beauty Product,Beauty,Lakme,CUST2669,South India,Retail Store,585.12,2024-05-20,8,0,,,0.308039762966704,True
+ORD10351,PRD5351,Nike Electronics Product,Electronics,Nike,CUST8554,North India,Retail Store,1815.7,2024-07-18,7,0,,,0.32208706025131534,True
+ORD10352,PRD5352,Samsung Apparel Product,Apparel,Samsung,CUST6438,South India,Website,504.2,2024-02-12,9,1,Wrong item sent,2024-03-02,0.37474861457272796,True
+ORD10354,PRD5354,Lakme Beauty Product,Beauty,Lakme,CUST5114,South India,Mobile App,1422.28,2024-05-26,9,0,,,0.31170341941678203,True
+ORD10372,PRD5372,AmazonBasics Electronics Product,Electronics,AmazonBasics,CUST4236,South India,Mobile App,1314.62,2024-08-25,10,1,Changed mind,2024-09-12,0.34073467515764994,True
+ORD10375,PRD5375,Lakme Electronics Product,Electronics,Lakme,CUST7424,East India,Mobile App,761.11,2024-10-20,10,1,Size mismatch,2024-10-31,0.38229507982946065,True
+ORD10384,PRD5384,Samsung Beauty Product,Beauty,Samsung,CUST5382,North India,Website,1841.99,2024-01-27,8,1,Late delivery,2024-02-12,0.3242604058272789,True
+ORD10408,PRD5408,Nike Electronics Product,Electronics,Nike,CUST2414,South India,Website,3038.12,2024-11-05,10,0,,,0.4196659067122401,True
+ORD10432,PRD5432,Samsung Electronics Product,Electronics,Samsung,CUST5868,East India,Mobile App,2123.66,2024-11-19,9,0,,,0.37440682947993376,True
+ORD10468,PRD5468,Lakme Electronics Product,Electronics,Lakme,CUST7520,North India,Mobile App,288.28,2024-03-13,5,1,Changed mind,2024-03-27,0.32556773340527206,True
+ORD10472,PRD5472,Lakme Apparel Product,Apparel,Lakme,CUST2686,South India,Website,1190.82,2024-11-16,10,0,,,0.33946650201532014,True
+ORD10480,PRD5480,Lakme Electronics Product,Electronics,Lakme,CUST2280,East India,Mobile App,597.43,2024-12-08,7,0,,,0.339219219292081,True
+ORD10485,PRD5485,Samsung Electronics Product,Electronics,Samsung,CUST2823,South India,Retail Store,3385.62,2024-09-11,5,1,Wrong item sent,2024-09-20,0.32512266731352857,True
+ORD10490,PRD5490,Samsung Electronics Product,Electronics,Samsung,CUST8557,West India,Website,1804.37,2024-03-04,9,0,,,0.40833545172317676,True
+ORD10499,PRD5499,Lakme Electronics Product,Electronics,Lakme,CUST8444,West India,Website,4761.14,2024-10-03,9,0,,,0.31014434841967303,True
+ORD10514,PRD5514,Boat Electronics Product,Electronics,Boat,CUST1988,North India,Mobile App,1731.68,2024-01-18,9,1,Late delivery,2024-02-01,0.3411679393298926,True
+ORD10526,PRD5526,Samsung Electronics Product,Electronics,Samsung,CUST5899,South India,Mobile App,4707.52,2024-12-26,6,0,,,0.3191879337488297,True
+ORD10534,PRD5534,Lakme Electronics Product,Electronics,Lakme,CUST8021,South India,Website,1902.19,2024-10-24,6,0,,,0.37636699827520165,True
+ORD10550,PRD5550,Nike Electronics Product,Electronics,Nike,CUST7325,South India,Website,477.64,2024-04-04,5,1,Wrong item sent,2024-04-12,0.39493245309772057,True
+ORD10561,PRD5561,Samsung Electronics Product,Electronics,Samsung,CUST5816,West India,Website,4338.21,2024-12-16,9,1,Changed mind,2024-12-29,0.353779345229381,True
+ORD10578,PRD5578,Samsung Electronics Product,Electronics,Samsung,CUST7064,West India,Website,961.3,2024-11-11,4,1,Changed mind,2024-11-16,0.34743830789402064,True
+ORD10582,PRD5582,Samsung Electronics Product,Electronics,Samsung,CUST4867,East India,Website,971.65,2024-02-03,2,1,Changed mind,2024-02-12,0.3263356761157422,True
+ORD10592,PRD5592,Boat Electronics Product,Electronics,Boat,CUST8234,East India,Website,692.05,2024-05-02,5,1,Size mismatch,2024-05-10,0.32679348427791,True
+ORD10606,PRD5606,Boat Electronics Product,Electronics,Boat,CUST8731,South India,Website,985.39,2024-08-05,6,0,,,0.38030077806314827,True
+ORD10628,PRD5628,Boat Electronics Product,Electronics,Boat,CUST6555,South India,Retail Store,1162.52,2024-10-05,4,0,,,0.3058022225372425,True
+ORD10631,PRD5631,Lakme Electronics Product,Electronics,Lakme,CUST5546,South India,Website,1689.74,2024-09-18,9,0,,,0.42955718925462083,True
+ORD10642,PRD5642,Nike Beauty Product,Beauty,Nike,CUST4891,South India,Website,1767.01,2024-07-09,9,0,,,0.34212797678967927,True
+ORD10650,PRD5650,Boat Beauty Product,Beauty,Boat,CUST2790,South India,Website,351.61,2024-12-13,8,1,Changed mind,2024-12-28,0.33753670650965945,True
+ORD10659,PRD5659,Samsung Electronics Product,Electronics,Samsung,CUST3439,South India,Retail Store,591.82,2024-08-02,4,0,,,0.36766310795649015,True
+ORD10687,PRD5687,Lakme Electronics Product,Electronics,Lakme,CUST1993,East India,Mobile App,1386.71,2024-05-27,7,1,Late delivery,2024-06-07,0.3232396576098443,True
+ORD10721,PRD5721,Samsung Electronics Product,Electronics,Samsung,CUST4650,North India,Website,3428.49,2024-06-14,6,0,,,0.3463031131848584,True
+ORD10745,PRD5745,Lakme Beauty Product,Beauty,Lakme,CUST8864,East India,Website,1340.21,2024-02-04,9,0,,,0.3048659138758303,True
+ORD10746,PRD5746,Lakme Electronics Product,Electronics,Lakme,CUST8100,North India,Retail Store,1290.89,2024-12-11,10,0,,,0.37524833120728524,True
+ORD10749,PRD5749,Samsung Books Product,Books,Samsung,CUST7575,South India,Mobile App,2022.97,2024-12-18,10,1,Other,2025-01-05,0.3130804245533916,True
+ORD10769,PRD5769,Samsung Books Product,Books,Samsung,CUST5325,South India,Retail Store,1070.9,2024-10-18,9,0,,,0.3116567475888553,True
+ORD10775,PRD5775,Nike Electronics Product,Electronics,Nike,CUST1564,South India,Website,4766.74,2024-04-26,10,0,,,0.3817428750188457,True
+ORD10788,PRD5788,Boat Electronics Product,Electronics,Boat,CUST7823,East India,Website,313.47,2024-11-25,8,0,,,0.38078949402264073,True
+ORD10800,PRD5800,Samsung Apparel Product,Apparel,Samsung,CUST1715,South India,Website,1120.96,2024-04-14,7,0,,,0.33117202818476327,True
+ORD10801,PRD5801,Philips Electronics Product,Electronics,Philips,CUST7496,South India,Mobile App,1287.95,2024-04-25,9,0,,,0.30461122308670674,True
+ORD10811,PRD5811,Nike Electronics Product,Electronics,Nike,CUST3742,East India,Retail Store,2899.02,2024-03-11,9,1,Other,2024-03-24,0.3200725826791163,True
+ORD10812,PRD5812,Samsung Electronics Product,Electronics,Samsung,CUST4450,West India,Website,1041.45,2024-12-03,2,0,,,0.3159908710707193,True
+ORD10813,PRD5813,Boat Electronics Product,Electronics,Boat,CUST1579,East India,Mobile App,1164.48,2024-11-17,10,0,,,0.35806592503607476,True
+ORD10814,PRD5814,Samsung Apparel Product,Apparel,Samsung,CUST1212,North India,Mobile App,664.05,2024-10-09,10,0,,,0.3180544614974907,True
+ORD10836,PRD5836,Boat Electronics Product,Electronics,Boat,CUST5861,North India,Mobile App,4366.67,2024-06-28,10,1,Late delivery,2024-07-09,0.30329625160825724,True
+ORD10838,PRD5838,Samsung Apparel Product,Apparel,Samsung,CUST8631,South India,Mobile App,588.41,2024-02-26,10,0,,,0.3528164522912211,True
+ORD10847,PRD5847,Nike Electronics Product,Electronics,Nike,CUST2415,East India,Website,1964.17,2024-06-08,7,0,,,0.34935972705532425,True
+ORD10848,PRD5848,Samsung Home & Kitchen Product,Home & Kitchen,Samsung,CUST3018,North India,Website,323.9,2024-05-12,9,0,,,0.3001153925929152,True
+ORD10877,PRD5877,Samsung Electronics Product,Electronics,Samsung,CUST6312,North India,Website,4884.19,2024-09-11,10,1,Changed mind,2024-10-01,0.37773617111305435,True
+ORD10882,PRD5882,Samsung Electronics Product,Electronics,Samsung,CUST2229,North India,Retail Store,920.23,2024-09-20,7,0,,,0.3729722857189069,True
+ORD10888,PRD5888,Nike Electronics Product,Electronics,Nike,CUST4326,North India,Retail Store,3503.05,2024-05-23,8,0,,,0.30340614997653376,True
+ORD10895,PRD5895,Nike Beauty Product,Beauty,Nike,CUST1315,North India,Retail Store,920.81,2024-04-10,10,0,,,0.30173664374562725,True
+ORD10918,PRD5918,Lakme Apparel Product,Apparel,Lakme,CUST2445,East India,Website,814.86,2024-06-22,10,0,,,0.30464701994908305,True
+ORD10925,PRD5925,Samsung Footwear Product,Footwear,Samsung,CUST7492,South India,Website,1572.35,2024-12-20,9,1,Other,2025-01-07,0.3182547965941005,True
+ORD10926,PRD5926,Nike Electronics Product,Electronics,Nike,CUST9431,East India,Website,4334.58,2024-04-08,7,1,Changed mind,2024-04-16,0.3018439355094504,True
+ORD10933,PRD5933,Samsung Books Product,Books,Samsung,CUST3725,South India,Website,407.23,2024-12-08,8,0,,,0.3501719016897114,True
+ORD10954,PRD5954,Samsung Electronics Product,Electronics,Samsung,CUST8884,North India,Website,1769.27,2024-06-07,6,0,,,0.3813880033412281,True
+ORD10955,PRD5955,Lakme Beauty Product,Beauty,Lakme,CUST4738,South India,Website,1666.9,2024-08-03,7,1,Wrong item sent,2024-08-14,0.311149956516958,True
+ORD10968,PRD5968,Nike Electronics Product,Electronics,Nike,CUST9550,East India,Retail Store,1495.14,2024-11-15,10,1,Size mismatch,2024-12-03,0.36405573042758255,True
+ORD10975,PRD5975,Samsung Electronics Product,Electronics,Samsung,CUST9802,West India,Mobile App,625.28,2024-06-20,4,0,,,0.3199512843150454,True
+ORD10987,PRD5987,Samsung Beauty Product,Beauty,Samsung,CUST4619,South India,Website,1633.88,2024-10-16,8,1,Wrong item sent,2024-10-30,0.36213567087925663,True
